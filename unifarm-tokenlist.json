@@ -67,35 +67,35 @@
     },
     {
       "name": "MANTRADAO",
-      "address": "0x48452b50c5639b1d19c5e2bbc706aacb42fec9e8",
+      "address": "0x48452b50C5639b1d19C5e2BBC706AAcB42Fec9E8",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/mantradado.png",
       "decimals": 18,
       "price": 0.23
     },
     {
       "name": "RAZOR",
-      "address": "0x3ceeb5d4ba5f21bddb09f4fb834792d00da03a5b",
+      "address": "0x3CeEB5d4BA5F21bDdB09f4Fb834792D00DA03A5b",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/razor.png",
       "decimals": 18,
       "price": 0.5
     },
     {
       "name": "PLOTX",
-      "address": "0x4784c3f6ad665a666b6efefd7fe65c85f70531a4",
+      "address": "0x4784c3F6ad665A666b6eFEFD7Fe65c85f70531a4",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/plotx.png",
       "decimals": 18,
       "price": 0.11
     },
     {
       "name": "PAID NETWORK",
-      "address": "0x348c5ce913ccdeb257b0381c920697cf26c6fcf7",
+      "address": "0x348C5cE913cCdEb257B0381C920697Cf26C6fcF7",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/paidnetwork.png",
       "decimals": 18,
       "price": 3.1
     },
     {
       "name": "ROYALE",
-      "address": "0x2e844b9ee72008d1efa33d5ebc2a2950b4d5296f",
+      "address": "0x2E844B9eE72008D1efA33d5EBC2A2950b4d5296f",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/royal.png",
       "decimals": 18,
       "price": 0.35
