@@ -80,7 +80,7 @@
       "price": 0.5
     },
     {
-      "name": "PLOTX",
+      "name": "PLOT",
       "address": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/plotx.png",
       "decimals": 18,
