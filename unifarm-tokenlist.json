@@ -94,11 +94,32 @@
       "price": 3.1
     },
     {
-      "name": "ROYALE",
+      "name": "ROYA",
       "address": "0x2E844B9eE72008D1efA33d5EBC2A2950b4d5296f",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/royal.png",
       "decimals": 18,
       "price": 0.35
+    },
+    {
+      "name": "APYSWAP",
+      "address": "0x8610A8669C986799ad2E786F8B54354203E42a60",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/apyswap.png",
+      "decimals": 18,
+      "price": 1.93
+    },
+    {
+      "name": "PLAYCENT",
+      "address": "0xd13ed2055756a27c400bccd25aca6abf7c05c19f",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/playcent.png",
+      "decimals": 18,
+      "price": 0.57
+    },
+    {
+      "name": "HAPI",
+      "address": "0x179Cf3CfD5eB757dC33A87Ec39d0d968A72fCA6c",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hapi.png",
+      "decimals": 18,
+      "price": 125.96
     }
   ],
   "label": "maintained by Oro Pocket",
