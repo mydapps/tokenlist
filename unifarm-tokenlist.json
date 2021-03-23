@@ -7,7 +7,7 @@
       "address": "0xc3Eb2622190c57429aac3901808994443b64B466",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/oro.png",
       "decimals": 18,
-      "price": 0.33
+      "price": 0.43
     },
     {
       "name": "MATIC",
@@ -77,7 +77,7 @@
       "address": "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/razor.png",
       "decimals": 18,
-      "price": 0.5
+      "price": 0.625
     },
     {
       "name": "PLOT",
@@ -105,21 +105,21 @@
       "address": "0xf7413489c474ca4399eee604716c72879eea3615",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/apyswap.png",
       "decimals": 18,
-      "price": 1.93
+      "price": 2
     },
     {
       "name": "PLAYCENT",
       "address": "0x657b83a0336561c8f64389a6f5ade675c04b0c3b",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/playcent.png",
       "decimals": 18,
-      "price": 0.57
+      "price": 0.9
     },
     {
       "name": "HAPI",
       "address": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hapi.png",
       "decimals": 18,
-      "price": 125.96
+      "price": 125
     }
   ],
   "label": "maintained by Oro Pocket",
