@@ -120,6 +120,13 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hapi.png",
       "decimals": 18,
       "price": 125
+    },
+    {
+      "name": "PAID NETWORK V2",
+      "address": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hapi.png",
+      "decimals": 18,
+      "price": 3.1
     }
   ],
   "label": "maintained by Oro Pocket",
