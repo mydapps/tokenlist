@@ -1,0 +1,48 @@
+{
+  "maintainer": "Opendefi by Oropocket",
+  "ipfs": null,
+  "tokenlist": [
+    {
+      "name": "TOKEN A",
+      "address": "0xef67699222EE81F6a6Dcd0a9ba88C24d783c3b46",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
+      "decimals": 18,
+      "price": 0.33,
+      "chainId": 97
+    },
+    {
+      "name": "TOKEN B",
+      "address": "0x2E844B9eE72008D1efA33d5EBC2A2950b4d5296f",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
+      "decimals": 18,
+      "price": 0.35,
+      "chainId": 97
+    },
+    {
+      "name": "TOKEN C",
+      "address": "0x8610A8669C986799ad2E786F8B54354203E42a60",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
+      "decimals": 18,
+      "price": 1.93,
+      "chainId": 97
+    },
+    {
+      "name": "TOKEN D",
+      "address": "0xd13ed2055756a27c400bccd25aca6abf7c05c19f",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
+      "decimals": 18,
+      "price": 0.57,
+      "chainId": 97
+    },
+    {
+      "name": "TOKEN E",
+      "address": "0x179Cf3CfD5eB757dC33A87Ec39d0d968A72fCA6c",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
+      "decimals": 18,
+      "price": 125.96,
+      "chainId": 97
+    }
+  ],
+  "label": "maintained by Oro Pocket",
+  "keywords": ["defi", "open defi", "Oro Pocket"]
+}
