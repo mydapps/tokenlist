@@ -127,41 +127,6 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/paidnetwork.png",
       "decimals": 18,
       "price": 3.1
-    },
-    {
-      "name": "TOKEN A",
-      "address": "0x91362AA68FC68E94d3d4F1D93AFD7Ef2d72e1d7A",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
-      "decimals": 18,
-      "price": 1
-    },
-    {
-      "name": "TOKEN B",
-      "address": "0xB026ea4968F4e3dFDAE85329a88f10C7c7A8Aae5",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
-      "decimals": 18,
-      "price": 1
-    },
-    {
-      "name": "TOKEN C",
-      "address": "0x760A3f8Da6DDd5B5a204a685d6e9a2707Dd3af5A",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
-      "decimals": 18,
-      "price": 1
-    },
-    {
-      "name": "TOKEN D",
-      "address": "0xE496756CFDb42603bE6968282B201387847885c7",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
-      "decimals": 18,
-      "price": 1
-    },
-    {
-      "name": "TOKEN E",
-      "address": "0x4175F45383005cD2b59803642e8c9E461A4eE439",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
-      "decimals": 18,
-      "price": 1
     }
   ],
   "label": "maintained by Oro Pocket",
