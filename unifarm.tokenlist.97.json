@@ -3,43 +3,43 @@
   "ipfs": null,
   "tokenlist": [
     {
-      "name": "TOKEN A",
+      "name": "ORO",
       "address": "0x4eBf6Ed5DAcfa34BeE0db8F99Dd9bBEE62597e5a",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oro.png",
       "decimals": 18,
       "price": 0.33,
       "chainId": 97
     },
     {
-      "name": "TOKEN B",
+      "name": "Yellow Road",
       "address": "0x378007d9724310De97B847d7cD93698E19211FbA",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/yellowroad.png",
       "decimals": 18,
-      "price": 0.35,
+      "price": 12.53,
       "chainId": 97
     },
     {
-      "name": "TOKEN C",
+      "name": "Julswap",
       "address": "0x7af8171b72214068A6B48f4467e41d0d913FaFb6",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/julswap.png",
       "decimals": 18,
-      "price": 1.93,
+      "price": 0.16,
       "chainId": 97
     },
     {
-      "name": "TOKEN D",
+      "name": "Multiplier",
       "address": "0xa19A0c32C3908cD39d28e7dAaD43E33627b8C8A5",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/mxx.png",
       "decimals": 18,
-      "price": 0.57,
+      "price": 25.56,
       "chainId": 97
     },
     {
-      "name": "TOKEN E",
+      "name": "BSC 50k",
       "address": "0x0AA4AA95DF0eC39340b8bAdf5778D21412375064",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ethereum-eth-logo.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bnb50k.png",
       "decimals": 18,
-      "price": 125.96,
+      "price": 0.02,
       "chainId": 97
     }
   ],
