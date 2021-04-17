@@ -37,7 +37,7 @@
     {
       "name": "BSC 50k",
       "address": "0x0AA4AA95DF0eC39340b8bAdf5778D21412375064",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bnb50k.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bnb50k.svg",
       "decimals": 18,
       "price": 0.02,
       "chainId": 97
