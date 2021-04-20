@@ -21,7 +21,7 @@
     {
       "name": "BMXX",
       "address": "0x4131b87f74415190425ccd873048c708f8005823",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bmxx.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet-v3/.github/assets/icons/bmxxlogo.png",
       "decimals": 18,
       "price": 25,
       "chainId": 56
