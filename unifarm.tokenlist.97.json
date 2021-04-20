@@ -4,42 +4,34 @@
   "tokenlist": [
     {
       "name": "ORO",
-      "address": "0x4eBf6Ed5DAcfa34BeE0db8F99Dd9bBEE62597e5a",
+      "address": "0x3B6A3bA9ea3AC56a283583497464B13567b6e524",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oro.png",
       "decimals": 18,
-      "price": 0.33,
+      "price": 0.48,
       "chainId": 97
     },
     {
-      "name": "Yellow Road",
-      "address": "0x378007d9724310De97B847d7cD93698E19211FbA",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/yellowroad.png",
-      "decimals": 18,
-      "price": 12.53,
-      "chainId": 97
-    },
-    {
-      "name": "Julswap",
-      "address": "0x7af8171b72214068A6B48f4467e41d0d913FaFb6",
+      "name": "JULD",
+      "address": "0x64Ff19D24a7eC55909486fD50611Da58f5Cf3892",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/julswap.png",
       "decimals": 18,
-      "price": 0.16,
+      "price": 0.12,
       "chainId": 97
     },
     {
-      "name": "Multiplier",
-      "address": "0xa19A0c32C3908cD39d28e7dAaD43E33627b8C8A5",
+      "name": "BMXX",
+      "address": "0xd6569341F53fC2e22301F47Ac97dbFB94F3D331F",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/mxx.png",
       "decimals": 18,
-      "price": 25.56,
+      "price": 23.42,
       "chainId": 97
     },
     {
-      "name": "BSC 50k",
-      "address": "0x0AA4AA95DF0eC39340b8bAdf5778D21412375064",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bnb.png",
+      "name": "ROAD",
+      "address": "0xb6007CFb4ee66F2EFe9c0033De598Ee768e45302",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/yellowroad.png",
       "decimals": 18,
-      "price": 0.02,
+      "price": 13.52,
       "chainId": 97
     }
   ],
