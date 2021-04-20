@@ -1,0 +1,40 @@
+{
+  "maintainer": "Opendefi by Oropocket",
+  "ipfs": null,
+  "tokenlist": [
+    {
+      "name": "ORO",
+      "address": "0x9f998d62b81af019e3346af141f90cccd679825e",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oro.png",
+      "decimals": 18,
+      "price": 0.59,
+      "chainId": 56
+    },
+    {
+      "name": "JULD",
+      "address": "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/julswap.png",
+      "decimals": 18,
+      "price": 0.14,
+      "chainId": 56
+    },
+    {
+      "name": "BMXX",
+      "address": "0x4131b87f74415190425ccd873048c708f8005823",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bmxx.png",
+      "decimals": 18,
+      "price": 25,
+      "chainId": 56
+    },
+    {
+      "name": "ROAD",
+      "address": "0x1a3057027032a1af433f6f596cab15271e4d8196",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/yellowroad.png",
+      "decimals": 18,
+      "price": 13.02,
+      "chainId": 56
+    }
+  ],
+  "label": "maintained by Oro Pocket",
+  "keywords": ["defi", "open defi", "Oro Pocket"]
+}
