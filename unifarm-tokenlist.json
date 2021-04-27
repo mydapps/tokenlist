@@ -3,128 +3,207 @@
   "ipfs": 0,
   "tokenlist": [
     {
-      "name": "ORO",
+      "name": "ORO Token",
+      "symbol": "ORO",
       "address": "0xc3Eb2622190c57429aac3901808994443b64B466",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/oro.png",
+      "icon": "https://unifarm.co/app/assets/icons/oro.png",
       "decimals": 18,
-      "price": 0.43
+      "price": 0.43,
+      "chainId": 1,
+      "tags": []
     },
     {
-      "name": "MATIC",
+      "name": "Polygon",
+      "symbol": "MATIC",
       "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/matic.png",
+      "icon": "https://unifarm.co/app/assets/icons/matic.png",
       "decimals": 18,
-      "price": 0.04
+      "price": 0.04,
+      "chainId": 1,
+      "tags": []
     },
     {
-      "name": "CNTR",
+      "name": "Centaur Token",
+      "symbol": "CNTR",
       "address": "0x03042482d64577A7bdb282260e2eA4c8a89C064B",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/cntr.png",
+      "icon": "https://unifarm.co/app/assets/icons/cntr.png",
       "decimals": 18,
-      "price": 0.004
+      "price": 0.004,
+      "chainId": 1,
+      "tags": []
     },
     {
-      "name": "REEF",
+      "name": "Reef.finance",
+      "symbol": "REEF",
       "address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/reef.png",
+      "icon": "https://unifarm.co/app/assets/icons/reef.png",
       "decimals": 18,
-      "price": 0.016
+      "price": 0.016,
+      "chainId": 1,
+      "tags": []
     },
     {
-      "name": "FRONT",
+      "name": "Frontier Token",
+      "symbol": "FRONT",
       "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/frontier.png",
+      "icon": "https://unifarm.co/app/assets/icons/frontier.png",
       "decimals": 18,
-      "price": 0.68
+      "price": 0.68,
+      "chainId": 1,
+      "tags": []
     },
     {
-      "name": "TVK",
+      "name": "Terra Virtua Kolect",
+      "symbol": "TVK",
       "address": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/tvk.png",
+      "icon": "https://unifarm.co/app/assets/icons/tvk.png",
       "decimals": 18,
-      "price": 0.16
+      "price": 0.16,
+      "chainId": 1,
+      "tags": []
     },
     {
-      "name": "ROUTE",
+      "name": "Router Protocol",
+      "symbol": "ROUTE",
       "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/route.png",
+      "icon": "https://unifarm.co/app/assets/icons/route.png",
       "decimals": 18,
-      "price": 2.4
+      "price": 2.4,
+      "chainId": 1,
+      "tags": []
     },
     {
-      "name": "ZEE",
+      "name": "ZeroSwap Token",
+      "symbol": "ZEE",
       "address": "0x2eDf094dB69d6Dcd487f1B3dB9febE2eeC0dd4c5",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/zeroswap.png",
+      "icon": "https://unifarm.co/app/assets/icons/zeroswap.png",
       "decimals": 18,
-      "price": 0.35
+      "price": 0.35,
+      "chainId": 1,
+      "tags": []
     },
     {
-      "name": "NORD",
+      "name": "Nord Token",
+      "symbol": "NORD",
       "address": "0x6e9730EcFfBed43fD876A264C982e254ef05a0DE",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/nord.png",
+      "icon": "https://unifarm.co/app/assets/icons/nord.png",
       "decimals": 18,
-      "price": 4.62
+      "price": 4.62,
+      "chainId": 1,
+      "tags": []
     },
     {
-      "name": "MANTRADAO",
+      "name": "MANTRA DAO",
+      "symbol": "OM",
       "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/mantradado.png",
+      "icon": "https://unifarm.co/app/assets/icons/mantradado.png",
       "decimals": 18,
-      "price": 0.23
+      "price": 0.23,
+      "chainId": 1,
+      "tags": []
     },
     {
       "name": "RAZOR",
+      "symbol": "RAZOR",
       "address": "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/razor.png",
+      "icon": "https://unifarm.co/app/assets/icons/razor.png",
       "decimals": 18,
-      "price": 0.625
+      "price": 0.625,
+      "chainId": 1,
+      "tags": []
     },
     {
       "name": "PLOT",
+      "symbol": "PLOT",
       "address": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/plotx.png",
+      "icon": "https://unifarm.co/app/assets/icons/plotx.png",
       "decimals": 18,
-      "price": 0.11
+      "price": 0.11,
+      "chainId": 1,
+      "tags": []
     },
     {
       "name": "PAID NETWORK",
+      "symbol": "PAID",
       "address": "0x8c8687fC965593DFb2F0b4EAeFD55E9D8df348df",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/paidnetwork.png",
+      "icon": "https://unifarm.co/app/assets/icons/paidnetwork.png",
       "decimals": 18,
-      "price": 3.1
+      "price": 3.1,
+      "chainId": 4,
+      "tags": []
     },
     {
-      "name": "ROYA",
+      "name": "Royale",
+      "symbol": "ROYA",
       "address": "0x7eaF9C89037e4814DC0d9952Ac7F888C784548DB",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/royal.png",
+      "icon": "https://unifarm.co/app/assets/icons/royal.png",
       "decimals": 18,
-      "price": 0.35
+      "price": 0.35,
+      "chainId": 1,
+      "tags": []
     },
     {
-      "name": "APYSWAP",
+      "name": "APYSwap",
+      "symbol": "APYS",
       "address": "0xf7413489c474ca4399eee604716c72879eea3615",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/apyswap.png",
+      "icon": "https://unifarm.co/app/assets/icons/apyswap.png",
       "decimals": 18,
-      "price": 2
+      "price": 2,
+      "chainId": 1,
+      "tags": []
     },
     {
-      "name": "PLAYCENT",
+      "name": "Playcent",
+      "symbol": "PCNT",
       "address": "0x657b83a0336561c8f64389a6f5ade675c04b0c3b",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/playcent.png",
+      "icon": "https://unifarm.co/app/assets/icons/playcent.png",
       "decimals": 18,
-      "price": 0.9
+      "price": 0.9,
+      "chainId": 1,
+      "tags": []
     },
     {
       "name": "HAPI",
+      "symbol": "HAPI",
       "address": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hapi.png",
+      "icon": "https://unifarm.co/app/assets/icons/hapi.png",
       "decimals": 18,
-      "price": 125
+      "price": 125,
+      "chainId": 1,
+      "tags": []
+    },
+    {
+      "name": "RioDeFi",
+      "symbol": "RFUEL",
+      "address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
+      "icon": "https://unifarm.co/app/assets/icons/rio.png",
+      "decimals": 18,
+      "price": 0.1,
+      "chainId": 1
+    },
+    {
+      "name": "Polkacover",
+      "symbol": "CVR",
+      "address": "0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
+      "icon": "https://unifarm.co/app/assets/icons/polkacover.png",
+      "decimals": 18,
+      "price": 0.49,
+      "chainId": 1
+    },
+    {
+      "name": "GamyFi",
+      "symbol": "GFX",
+      "address": "0xe4fa3c576c31696322e8d7165c5965d5a1f6a1a5",
+      "icon": "https://unifarm.co/app/assets/icons/gamyfi.png",
+      "decimals": 18,
+      "price": 2.67,
+      "chainId": 1
     },
     {
       "name": "PAID NETWORK V2",
+      "symbol": "PAID V2",
       "address": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet/.github/assets/icons/paidnetwork.png",
+      "icon": "https://unifarm.co/app/assets/icons/paidnetwork.png",
       "decimals": 18,
       "price": 3.1
     }
