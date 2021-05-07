@@ -3,7 +3,8 @@
   "ipfs": null,
   "tokenlist": [
     {
-      "name": "ORO",
+      "name": "Oropocket by OpenDefi",
+      "symbol": "ORO",
       "address": "0x3B6A3bA9ea3AC56a283583497464B13567b6e524",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oro.png",
       "decimals": 18,
@@ -11,7 +12,8 @@
       "chainId": 97
     },
     {
-      "name": "JULD",
+      "name": "JulSwap",
+      "symbol": "JULD",
       "address": "0x64Ff19D24a7eC55909486fD50611Da58f5Cf3892",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/julswap.png",
       "decimals": 18,
@@ -19,7 +21,8 @@
       "chainId": 97
     },
     {
-      "name": "BMXX",
+      "name": "Multiplier",
+      "symbol": "BMXX",
       "address": "0xd6569341F53fC2e22301F47Ac97dbFB94F3D331F",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bmxx.png",
       "decimals": 18,
@@ -27,11 +30,48 @@
       "chainId": 97
     },
     {
-      "name": "ROAD",
+      "name": "Yellow Road",
+      "symbol": "ROAD",
       "address": "0xb6007CFb4ee66F2EFe9c0033De598Ee768e45302",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/yellowroad.png",
       "decimals": 18,
       "price": 13.02,
+      "chainId": 97
+    },
+    {
+      "name": "Unifarm Token",
+      "symbol": "UFARM",
+      "address": "0xb6007CFb4ee66F2EFe9c0033De598Ee768e45302",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
+      "decimals": 18,
+      "price": 0.12,
+      "chainId": 97
+    },
+    {
+      "name": "Cook Protocol",
+      "symbol": "COOK",
+      "address": "0xb6007CFb4ee66F2EFe9c0033De598Ee768e45302",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cook.png",
+      "decimals": 18,
+      "price": 0.05,
+      "chainId": 97
+    },
+    {
+      "name": "Umbrella Network",
+      "symbol": "UMB",
+      "address": "0xb6007CFb4ee66F2EFe9c0033De598Ee768e45302",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/umbrella.png",
+      "decimals": 18,
+      "price": 0.7,
+      "chainId": 97
+    },
+    {
+      "name": "Unido EP",
+      "symbol": "UDO",
+      "address": "0xb6007CFb4ee66F2EFe9c0033De598Ee768e45302",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/umbrella.png",
+      "decimals": 18,
+      "price": 0.3,
       "chainId": 97
     }
   ],
