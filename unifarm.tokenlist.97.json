@@ -41,7 +41,7 @@
     {
       "name": "Unifarm Token",
       "symbol": "UFARM",
-      "address": "0xb6007CFb4ee66F2EFe9c0033De598Ee768e45302",
+      "address": "0x46fAC1d1e15311AF54002a1EFF31745602774e6B",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
       "decimals": 18,
       "price": 0.12,
@@ -50,7 +50,7 @@
     {
       "name": "Cook Protocol",
       "symbol": "COOK",
-      "address": "0xb6007CFb4ee66F2EFe9c0033De598Ee768e45302",
+      "address": "0x6b4AB6dC8677E133C42779A41a6ae6D14912Ef56",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cook.png",
       "decimals": 18,
       "price": 0.05,
@@ -59,7 +59,7 @@
     {
       "name": "Umbrella Network",
       "symbol": "UMB",
-      "address": "0xb6007CFb4ee66F2EFe9c0033De598Ee768e45302",
+      "address": "0x1973130FE1FFBfC424D3D9B77E3416c210711FA6",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/umbrella.png",
       "decimals": 18,
       "price": 0.7,
@@ -68,7 +68,7 @@
     {
       "name": "Unido EP",
       "symbol": "UDO",
-      "address": "0xb6007CFb4ee66F2EFe9c0033De598Ee768e45302",
+      "address": "0xEc9cA0c1666103758b2dc2B0eDc924feE7f7F08C",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/unido.png",
       "decimals": 18,
       "price": 0.3,
