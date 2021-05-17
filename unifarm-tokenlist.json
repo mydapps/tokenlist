@@ -211,7 +211,7 @@
       "name": "Kylin Network",
       "symbol": "KYL",
       "address": "0x579CdC5CA29b368c926cF122B6a2974F67EBC0Af",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/kylin.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/Kylin.png",
       "decimals": 18,
       "price": 0.72,
       "chainId": 4
@@ -220,7 +220,7 @@
       "name": "DeHive",
       "symbol": "DHV",
       "address": "0x861E809562Cb2C91eEddFD70d99343fc6DC98A0d",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/kylin.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/Dehive.png",
       "decimals": 18,
       "price": 4.72,
       "chainId": 4
@@ -238,7 +238,7 @@
       "name": "PolkaBridge",
       "symbol": "PBR",
       "address": "0xC10bbe7DC1701B3f17276CD2665DE8de9EC73aC5",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/polkalokr.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/Polkabridge.png",
       "decimals": 18,
       "price": 0.22,
       "chainId": 4
@@ -256,7 +256,7 @@
       "name": "QUAI DAO",
       "symbol": "QUAI",
       "address": "0x38BcD9aa48533BF90919Ac89f8D7D19861DEC20B",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ArGoApp.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/quai.png",
       "decimals": 18,
       "price": 0.32,
       "chainId": 4
