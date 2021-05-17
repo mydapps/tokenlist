@@ -199,6 +199,69 @@
       "chainId": 4
     },
     {
+      "name": "Unifarm Token",
+      "symbol": "UFARM",
+      "address": "0xf7745D2e7FdE51c542568F718457d983F761e8C3",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
+      "decimals": 18,
+      "price": 0.12,
+      "chainId": 4
+    },
+    {
+      "name": "Kylin Network",
+      "symbol": "KYL",
+      "address": "0x579CdC5CA29b368c926cF122B6a2974F67EBC0Af",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/kylin.png",
+      "decimals": 18,
+      "price": 0.72,
+      "chainId": 4
+    },
+    {
+      "name": "DeHive",
+      "symbol": "DHV",
+      "address": "0x861E809562Cb2C91eEddFD70d99343fc6DC98A0d",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/kylin.png",
+      "decimals": 18,
+      "price": 4.72,
+      "chainId": 4
+    },
+    {
+      "name": "Polkalokr",
+      "symbol": "LKR",
+      "address": "0x176536114B0A7Cf95fAcd542dA10E669De7f6f81",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/polkalokr.png",
+      "decimals": 18,
+      "price": 0.38,
+      "chainId": 4
+    },
+    {
+      "name": "PolkaBridge",
+      "symbol": "PBR",
+      "address": "0xC10bbe7DC1701B3f17276CD2665DE8de9EC73aC5",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/polkalokr.png",
+      "decimals": 18,
+      "price": 0.22,
+      "chainId": 4
+    },
+    {
+      "name": "Argo App",
+      "symbol": "ARGO",
+      "address": "0x168dd87F71Dc6b27d16eaC186556278d81292C1C",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ArGoApp.png",
+      "decimals": 18,
+      "price": 0.38,
+      "chainId": 4
+    },
+    {
+      "name": "QUAI DAO",
+      "symbol": "QUAI",
+      "address": "0x38BcD9aa48533BF90919Ac89f8D7D19861DEC20B",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ArGoApp.png",
+      "decimals": 18,
+      "price": 0.32,
+      "chainId": 4
+    },
+    {
       "name": "PAID NETWORK V2",
       "symbol": "PAID V2",
       "address": "0x7d65bc7b054a1c00a0de144fed632bf90b6b88b6",
