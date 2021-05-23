@@ -262,6 +262,33 @@
       "chainId": 4
     },
     {
+      "name": "Bonfi",
+      "symbol": "BNF",
+      "address": "0x925f5E911499D552baC089D1f111ca4f39072eae",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bonfi.png",
+      "decimals": 18,
+      "price": 0.005,
+      "chainId": 4
+    },
+    {
+      "name": "Raze Network",
+      "symbol": "RAZE",
+      "address": "0xB4EEc45cf3c907fc84Fe9544cf08A79D7c842C4D",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/raze.png",
+      "decimals": 18,
+      "price": 0.293,
+      "chainId": 4
+    },
+    {
+      "name": "Netvrk",
+      "symbol": "NTVRK",
+      "address": "0xCeABE8ce0b52d5B1B978C3D53AAd21244337540f",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/netvrk.jpeg",
+      "decimals": 18,
+      "price": 0.32,
+      "chainId": 4
+    },
+    {
       "name": "PAID NETWORK V2",
       "symbol": "PAID V2",
       "address": "0x7d65bc7b054a1c00a0de144fed632bf90b6b88b6",
