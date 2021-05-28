@@ -73,6 +73,33 @@
       "decimals": 18,
       "price": 0.3,
       "chainId": 97
+    },
+    {
+      "name": "STACK OS",
+      "symbol": "STACK",
+      "address": "0x2C914E525F717637c6728159d8A413f9057822ad",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/stack.png",
+      "decimals": 18,
+      "price": 0.03,
+      "chainId": 97
+    },
+    {
+      "name": "Fortube",
+      "symbol": "FOR",
+      "address": "0xEd53A4339be3678967b61B5a7a4EE89b5C4039Aa",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/fortube.png",
+      "decimals": 18,
+      "price": 0.03,
+      "chainId": 97
+    },
+    {
+      "name": "Collateral Pay",
+      "symbol": "COLL",
+      "address": "0x96bCB47eaC3BBdBcCD8dD65dB9D8d0f4d1d60Ea2",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cpay.jpg",
+      "decimals": 18,
+      "price": 0.8,
+      "chainId": 97
     }
   ],
   "label": "maintained by Oro Pocket",
