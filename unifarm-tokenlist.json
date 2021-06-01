@@ -289,6 +289,42 @@
       "chainId": 4
     },
     {
+      "name": "Polkally",
+      "symbol": "KALLY",
+      "address": "0x55964cFECee16e751271F502172a23087D02cA0b",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pollkaly.png",
+      "decimals": 18,
+      "price": 0.03,
+      "chainId": 4
+    },
+    {
+      "name": "Ispolink",
+      "symbol": "ISP",
+      "address": "0x9D19294ec8E4742fa08344296146E2F480ceD946",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/isoplonic.png",
+      "decimals": 18,
+      "price": 0.002,
+      "chainId": 4
+    },
+    {
+      "name": "Idavoll Network",
+      "symbol": "IDV",
+      "address": "0x29d3A33F8F1c814FFBf66CA314Ae0ad07de398cB",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ada.png",
+      "decimals": 18,
+      "price": 0.02,
+      "chainId": 4
+    },
+    {
+      "name": "Chroma",
+      "symbol": "CHR",
+      "address": "0xbAE63daAB9fE0450c936Ddc21C93b541Dc644176",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/chromia.png",
+      "decimals": 6,
+      "price": 0.2122,
+      "chainId": 4
+    },
+    {
       "name": "PAID NETWORK V2",
       "symbol": "PAID V2",
       "address": "0x7d65bc7b054a1c00a0de144fed632bf90b6b88b6",
