@@ -100,6 +100,15 @@
       "decimals": 18,
       "price": 0.8,
       "chainId": 97
+    },
+    {
+      "name": "Binance-Peg BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xC3A967c67431BD1a2206B854E588E6D4c628999A",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/binance-peg.png",
+      "decimals": 18,
+      "price": 1.0005,
+      "chainId": 97
     }
   ],
   "label": "maintained by Oro Pocket",
