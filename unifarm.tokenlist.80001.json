@@ -1,0 +1,62 @@
+{
+  "maintainer": "Opendefi by Oropocket",
+  "ipfs": null,
+  "tokenlist": [
+    {
+      "name": "Unifarm Token",
+      "symbol": "UFARM",
+      "address": "0xa1C5949Ec64b4d81B2BE69356BeAfe529F774FE5",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
+      "decimals": 18,
+      "price": 0.59,
+      "chainId": 80001
+    },
+    {
+      "name": "Bluzelle",
+      "symbol": "BLZ",
+      "address": "0x684392f5e743ea5Eafee8AC838A26E6DB693F391",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/blz.png",
+      "decimals": 18,
+      "price": 0.18,
+      "chainId": 80001
+    },
+    {
+      "name": "Elk Finance",
+      "symbol": "ELK",
+      "address": "0x19e3Cff1D5bF40a1581db3f9ae73cdE172C03438",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/elk.png",
+      "decimals": 18,
+      "price": 1.12,
+      "chainId": 80001
+    },
+    {
+      "name": "Raze Network",
+      "symbol": "RAZE",
+      "address": "0x89120177f9FDF75C7036c0Bda72e16f96E132b26",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/raze.png",
+      "decimals": 18,
+      "price": 0.16,
+      "chainId": 80001
+    },
+    {
+      "name": "Ferrum Network",
+      "symbol": "FRM",
+      "address": "0x81895ae339C46d5e0CD5BD4B810cBA32F85f0108",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/frm.png",
+      "decimals": 18,
+      "price": 0.16,
+      "chainId": 80001
+    },
+    {
+      "name": "EasyFi",
+      "symbol": "EASY",
+      "address": "0x071fD95bf88D380C804e6EeF4724B936821D073D",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/easy.png",
+      "decimals": 18,
+      "price": 4.42,
+      "chainId": 80001
+    }
+  ],
+  "label": "maintained by Oro Pocket",
+  "keywords": ["defi", "open defi", "Oro Pocket"]
+}
