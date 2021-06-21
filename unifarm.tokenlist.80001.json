@@ -49,7 +49,7 @@
     },
     {
       "name": "EasyFi",
-      "symbol": "EASY",
+      "symbol": "EZ",
       "address": "0x071fD95bf88D380C804e6EeF4724B936821D073D",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/easy.png",
       "decimals": 18,
