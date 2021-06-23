@@ -15,7 +15,7 @@
       "name": "JulSwap",
       "symbol": "JULD",
       "address": "0x64Ff19D24a7eC55909486fD50611Da58f5Cf3892",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/julswap.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/juld.png",
       "decimals": 18,
       "price": 0.14,
       "chainId": 97
