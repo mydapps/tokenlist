@@ -102,6 +102,42 @@
       "chainId": 97
     },
     {
+      "name": "GamyFi",
+      "symbol": "GFX",
+      "address": "0x959150c57A397Afd50AFc035C46A75F0DDFd9f56",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gamyfi.png",
+      "decimals": 18,
+      "price": 1.01,
+      "chainId": 97
+    },
+    {
+      "name": "TeraBlock",
+      "symbol": "TBC",
+      "address": "0xf797f4591aAe59C7911fcc4E4ce14f881342619D",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/terablock.png",
+      "decimals": 18,
+      "price": 0.03631,
+      "chainId": 97
+    },
+    {
+      "name": "WallStreetBets DApp",
+      "symbol": "WSB",
+      "address": "0x23D8e49e95Fe5297739d21a3901056DB8aB8B47C",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/wsb.png",
+      "decimals": 18,
+      "price": 0.03102,
+      "chainId": 97
+    },
+    {
+      "name": "Peanut",
+      "symbol": "NUX",
+      "address": "0x4AC4DC79F4740b3107e0BB492F9dafC6F679D911",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/nux.png",
+      "decimals": 18,
+      "price": 0.5531,
+      "chainId": 97
+    },
+    {
       "name": "Binance-Peg BUSD Token",
       "symbol": "BUSD",
       "address": "0xC3A967c67431BD1a2206B854E588E6D4c628999A",
