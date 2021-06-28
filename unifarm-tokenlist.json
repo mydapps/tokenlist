@@ -343,6 +343,33 @@
       "chainId": 4
     },
     {
+      "name": "Gains Associates",
+      "symbol": "GAINS",
+      "address": "0xcd49901EE9C6f1E28b1619361a68FE33FF79CEA6",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gains.png",
+      "decimals": 18,
+      "price": 0.1177,
+      "chainId": 4
+    },
+    {
+      "name": "SingularityDAO",
+      "symbol": "SDAO",
+      "address": "0xD758484E0c5A4D2F8d793FAee39ce8e63Efab76C",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/singularitydao.png",
+      "decimals": 18,
+      "price": 0.6138,
+      "chainId": 4
+    },
+    {
+      "name": "Peanut",
+      "symbol": "NUX",
+      "address": "0x051efD58efd55917393911a5e071A4CD97dB327f",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/nux.png",
+      "decimals": 18,
+      "price": 0.06,
+      "chainId": 4
+    },
+    {
       "name": "PAID NETWORK V2",
       "symbol": "PAID V2",
       "address": "0x7d65bc7b054a1c00a0de144fed632bf90b6b88b6",
