@@ -138,6 +138,42 @@
       "chainId": 97
     },
     {
+      "name": "Kylin Network",
+      "symbol": "KYL",
+      "address": "0x35D3922d6617e2ceA2bb34394f00bca894f77C88",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/Kylin.png",
+      "decimals": 18,
+      "price": 0.72,
+      "chainId": 97
+    },
+    {
+      "name": "Pinknode",
+      "symbol": "PNODE",
+      "address": "0x0c9C4C6363d666003386da006201D2F370ad1235",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pinknode.png",
+      "decimals": 18,
+      "price": 0.04647,
+      "chainId": 97
+    },
+    {
+      "name": "Polkawar",
+      "symbol": "PWAR",
+      "address": "0xa8fEF48FF77D7BAe59f3c088cBf5a8FC3797aDf9",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pwar.png",
+      "decimals": 18,
+      "price": 0.041,
+      "chainId": 97
+    },
+    {
+      "name": "PolkaBridge",
+      "symbol": "PBR",
+      "address": "0x0bccb061326b81606854eDF4b28C12f230EEDf6A",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/Polkabridge.png",
+      "decimals": 18,
+      "price": 0.22,
+      "chainId": 97
+    },
+    {
       "name": "Binance-Peg BUSD Token",
       "symbol": "BUSD",
       "address": "0xC3A967c67431BD1a2206B854E588E6D4c628999A",
