@@ -370,6 +370,24 @@
       "chainId": 4
     },
     {
+      "name": "Pinknode",
+      "symbol": "PNODE",
+      "address": "0x909B40A88a27F7FD2C8Ea592571BF4d862985563",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pinknode.png",
+      "decimals": 18,
+      "price": 0.04647,
+      "chainId": 4
+    },
+    {
+      "name": "Polkawar",
+      "symbol": "PWAR",
+      "address": "0x8DE3e3fEb534d4ab6aC2AECD3e31014F5E94d95e",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pwar.png",
+      "decimals": 18,
+      "price": 0.041,
+      "chainId": 4
+    },
+    {
       "name": "PAID NETWORK V2",
       "symbol": "PAID V2",
       "address": "0x7d65bc7b054a1c00a0de144fed632bf90b6b88b6",
