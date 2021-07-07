@@ -379,12 +379,12 @@
       "chainId": 4
     },
     {
-      "name": "Polkawar",
-      "symbol": "PWAR",
-      "address": "0x8DE3e3fEb534d4ab6aC2AECD3e31014F5E94d95e",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pwar.png",
+      "name": "Polkafoundry",
+      "symbol": "PKF",
+      "address": "0x3B5F4f6874122F77A365bb9F2fFddF809Bcb231d",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/polkafoundry.png",
       "decimals": 18,
-      "price": 0.041,
+      "price": 0.1843,
       "chainId": 4
     },
     {
