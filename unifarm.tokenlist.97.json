@@ -3,7 +3,7 @@
   "ipfs": null,
   "tokenlist": [
     {
-      "name": "Oropocket by OpenDefi",
+      "name": "OpenDefi by Oropocket",
       "symbol": "ORO",
       "address": "0x3B6A3bA9ea3AC56a283583497464B13567b6e524",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oro.png",
@@ -129,12 +129,30 @@
       "chainId": 97
     },
     {
-      "name": "Peanut",
-      "symbol": "NUX",
-      "address": "0x4AC4DC79F4740b3107e0BB492F9dafC6F679D911",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/nux.png",
+      "name": "Polkawar",
+      "symbol": "PWAR",
+      "address": "0x8197b1D816544e938E58D9A4476d2E34bdd3D056",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/polkawar.png",
       "decimals": 18,
-      "price": 0.5531,
+      "price": 0.1587,
+      "chainId": 97
+    },
+    {
+      "name": "Sokuswap",
+      "symbol": "SOKU",
+      "address": "0xcC19bE60e860fc3451E711d0F0fC0c31815A35Fd",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/sokuswap.png",
+      "decimals": 18,
+      "price": 0.002,
+      "chainId": 97
+    },
+    {
+      "name": "Cannumo",
+      "symbol": "CANU",
+      "address": "0xc1ad1cC4D4F3943FE721530905440629c1FD35d1",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/canu.png",
+      "decimals": 18,
+      "price": 0.002,
       "chainId": 97
     },
     {
