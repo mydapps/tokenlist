@@ -163,6 +163,15 @@
       "decimals": 18,
       "price": 1.0005,
       "chainId": 97
+    },
+    {
+      "name": "Unifarm Token",
+      "symbol": "UFARM",
+      "address": "0x19e90b5888C44F0bF50F19B2842A8937C78C9688",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
+      "decimals": 18,
+      "price": 0.12,
+      "chainId": 97
     }
   ],
   "label": "maintained by Oro Pocket",
