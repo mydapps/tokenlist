@@ -147,15 +147,6 @@
       "chainId": 97
     },
     {
-      "name": "Cannumo",
-      "symbol": "CANU",
-      "address": "0xc1ad1cC4D4F3943FE721530905440629c1FD35d1",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/canu.png",
-      "decimals": 18,
-      "price": 0.002,
-      "chainId": 97
-    },
-    {
       "name": "Binance-Peg BUSD Token",
       "symbol": "BUSD",
       "address": "0xC3A967c67431BD1a2206B854E588E6D4c628999A",
@@ -171,6 +162,15 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
       "decimals": 18,
       "price": 0.12,
+      "chainId": 97
+    },
+    {
+      "name": "OpenDefi by Oropocket",
+      "symbol": "ORO",
+      "address": "0x541Cb6f10A37DA891ED7567e9944514fc141BECE",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oro.png",
+      "decimals": 18,
+      "price": 0.59,
       "chainId": 97
     }
   ],
