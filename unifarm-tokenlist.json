@@ -388,6 +388,24 @@
       "chainId": 4
     },
     {
+      "name": "UnoRe",
+      "symbol": "UNO",
+      "address": "0x7C4f2F31aF7f9a3A527AF7b23135e4b268EE96Df",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/uno.png",
+      "decimals": 18,
+      "price": 0.1271,
+      "chainId": 4
+    },
+    {
+      "name": "Bitcashpay",
+      "symbol": "BCP",
+      "address": "0x5AEFcB8323b2085d1b02313DFdc30Fb0267Da063",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/polkafoundry.png",
+      "decimals": 18,
+      "price": 0.005217,
+      "chainId": 4
+    },
+    {
       "name": "PAID NETWORK V2",
       "symbol": "PAID V2",
       "address": "0x7d65bc7b054a1c00a0de144fed632bf90b6b88b6",
