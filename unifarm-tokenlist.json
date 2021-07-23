@@ -399,9 +399,9 @@
     {
       "name": "Bitcashpay",
       "symbol": "BCP",
-      "address": "0x5AEFcB8323b2085d1b02313DFdc30Fb0267Da063",
+      "address": "0xA3E560F8261B7aab11ff114aB98C6056c94fa632",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bitcash.png",
-      "decimals": 18,
+      "decimals": 8,
       "price": 0.005217,
       "chainId": 4
     },
