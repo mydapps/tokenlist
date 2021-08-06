@@ -172,6 +172,24 @@
       "decimals": 18,
       "price": 0.59,
       "chainId": 97
+    },
+    {
+      "name": "New Umbrella Network",
+      "symbol": "UMB",
+      "address": "0x1852FdF082D438C494eb5E292a4485B9B8A8c0Cb",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/umbrella.png",
+      "decimals": 18,
+      "price": 0.7,
+      "chainId": 97
+    },
+    {
+      "name": "New Unido EP",
+      "symbol": "UDO",
+      "address": "0xEAeD7e3cADc8f312260F8A732A7F5E48Ad1E26e5",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/unido.png",
+      "decimals": 18,
+      "price": 0.3,
+      "chainId": 97
     }
   ],
   "label": "maintained by Oro Pocket",
