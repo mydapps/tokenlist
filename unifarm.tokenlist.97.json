@@ -174,6 +174,33 @@
       "chainId": 97
     },
     {
+      "name": "Cannumo",
+      "symbol": "CANU",
+      "address": "0xde69bdC14A3379e4242E0d40707872Ddfea8a75D",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/canu.png",
+      "decimals": 18,
+      "price": 0.01708,
+      "chainId": 97
+    },
+    {
+      "name": "SpaceSwap",
+      "symbol": "MILK2",
+      "address": "0xB1B28c6a005dfAd3D1333Eb6660A81E3c10EfB80",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/milk.png",
+      "decimals": 18,
+      "price": 0.06311,
+      "chainId": 97
+    },
+    {
+      "name": "Smaugs",
+      "symbol": "SMG",
+      "address": "0x228353554C87DCc21E93a71cb5B4B08f4B40cb52",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/smg.png",
+      "decimals": 18,
+      "price": 0.05301,
+      "chainId": 97
+    },
+    {
       "name": "New Umbrella Network",
       "symbol": "UMB",
       "address": "0x1852FdF082D438C494eb5E292a4485B9B8A8c0Cb",
