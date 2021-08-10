@@ -183,7 +183,7 @@
       "chainId": 97
     },
     {
-      "name": "SpaceSwap",
+      "name": "MilkyWay Token by SpaceSwap",
       "symbol": "MILK2",
       "address": "0xB1B28c6a005dfAd3D1333Eb6660A81E3c10EfB80",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/milk.png",
@@ -192,9 +192,9 @@
       "chainId": 97
     },
     {
-      "name": "Smaugs",
+      "name": "Smaugs NFT",
       "symbol": "SMG",
-      "address": "0x228353554C87DCc21E93a71cb5B4B08f4B40cb52",
+      "address": "0x973F076a3Cd36AcDd8edCdf29cfe2A2114Cc82a9",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/smg.png",
       "decimals": 18,
       "price": 0.05301,
