@@ -196,7 +196,7 @@
       "symbol": "SMG",
       "address": "0x973F076a3Cd36AcDd8edCdf29cfe2A2114Cc82a9",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/smg.png",
-      "decimals": 18,
+      "decimals": 8,
       "price": 0.05301,
       "chainId": 97
     },
