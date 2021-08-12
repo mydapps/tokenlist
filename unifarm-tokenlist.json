@@ -406,6 +406,24 @@
       "chainId": 4
     },
     {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xeb8f08a975ab53e34d8a0330e0d34de942c95926",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/usdc.png",
+      "decimals": 6,
+      "price": 1.01,
+      "chainId": 4
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0xc778417e063141139fce010982780140aa0cd5ab",
+      "icon": "https://oropocket.com/unifarm/assets/icons/WETH.png",
+      "decimals": 18,
+      "price": 3223.59,
+      "chainId": 4
+    },
+    {
       "name": "PAID NETWORK V2",
       "symbol": "PAID V2",
       "address": "0x7d65bc7b054a1c00a0de144fed632bf90b6b88b6",
