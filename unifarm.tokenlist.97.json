@@ -120,6 +120,15 @@
       "chainId": 97
     },
     {
+      "name": "Peanut",
+      "symbol": "NUX",
+      "address": "0x4ac4dc79f4740b3107e0bb492f9dafc6f679d911",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/nux.png",
+      "decimals": 18,
+      "price": 0.06,
+      "chainId": 97
+    },
+    {
       "name": "WallStreetBets DApp",
       "symbol": "WSB",
       "address": "0x23D8e49e95Fe5297739d21a3901056DB8aB8B47C",
