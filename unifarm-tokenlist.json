@@ -406,6 +406,15 @@
       "chainId": 4
     },
     {
+      "name": "Definity",
+      "symbol": "DEFX",
+      "address": "0xF901CB917933a99a59E3843e4b8d5054F5102f79",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/defx.png",
+      "decimals": 18,
+      "price": 0.08728,
+      "chainId": 4
+    },
+    {
       "name": "USD Coin",
       "symbol": "USDC",
       "address": "0xeb8f08a975ab53e34d8a0330e0d34de942c95926",
