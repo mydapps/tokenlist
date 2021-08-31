@@ -3,141 +3,6 @@
   "ipfs": null,
   "tokenlist": [
     {
-      "name": "OpenDefi by Oropocket",
-      "symbol": "ORO",
-      "address": "0x3B6A3bA9ea3AC56a283583497464B13567b6e524",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oro.png",
-      "decimals": 18,
-      "price": 0.59,
-      "chainId": 97
-    },
-    {
-      "name": "JulSwap",
-      "symbol": "JULD",
-      "address": "0x64Ff19D24a7eC55909486fD50611Da58f5Cf3892",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/juld.png",
-      "decimals": 18,
-      "price": 0.14,
-      "chainId": 97
-    },
-    {
-      "name": "Multiplier",
-      "symbol": "BMXX",
-      "address": "0xd6569341F53fC2e22301F47Ac97dbFB94F3D331F",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bmxx.png",
-      "decimals": 18,
-      "price": 25,
-      "chainId": 97
-    },
-    {
-      "name": "Yellow Road",
-      "symbol": "ROAD",
-      "address": "0xb6007CFb4ee66F2EFe9c0033De598Ee768e45302",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/yellowroad.png",
-      "decimals": 18,
-      "price": 13.02,
-      "chainId": 97
-    },
-    {
-      "name": "Unifarm Token",
-      "symbol": "UFARM",
-      "address": "0x46fAC1d1e15311AF54002a1EFF31745602774e6B",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
-      "decimals": 18,
-      "price": 0.12,
-      "chainId": 97
-    },
-    {
-      "name": "Cook Protocol",
-      "symbol": "COOK",
-      "address": "0x6b4AB6dC8677E133C42779A41a6ae6D14912Ef56",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cook.png",
-      "decimals": 18,
-      "price": 0.05,
-      "chainId": 97
-    },
-    {
-      "name": "Umbrella Network",
-      "symbol": "UMB",
-      "address": "0x1973130FE1FFBfC424D3D9B77E3416c210711FA6",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/umbrella.png",
-      "decimals": 18,
-      "price": 0.7,
-      "chainId": 97
-    },
-    {
-      "name": "Unido EP",
-      "symbol": "UDO",
-      "address": "0xEc9cA0c1666103758b2dc2B0eDc924feE7f7F08C",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/unido.png",
-      "decimals": 18,
-      "price": 0.3,
-      "chainId": 97
-    },
-    {
-      "name": "STACK OS",
-      "symbol": "STACK",
-      "address": "0x2C914E525F717637c6728159d8A413f9057822ad",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/stack.png",
-      "decimals": 18,
-      "price": 0.03,
-      "chainId": 97
-    },
-    {
-      "name": "Fortube",
-      "symbol": "FOR",
-      "address": "0xEd53A4339be3678967b61B5a7a4EE89b5C4039Aa",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/fortube.png",
-      "decimals": 18,
-      "price": 0.03,
-      "chainId": 97
-    },
-    {
-      "name": "Collateral Pay",
-      "symbol": "COLL",
-      "address": "0x96bCB47eaC3BBdBcCD8dD65dB9D8d0f4d1d60Ea2",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cpay.jpg",
-      "decimals": 18,
-      "price": 0.8,
-      "chainId": 97
-    },
-    {
-      "name": "GamyFi",
-      "symbol": "GFX",
-      "address": "0x959150c57A397Afd50AFc035C46A75F0DDFd9f56",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gamyfi.png",
-      "decimals": 18,
-      "price": 1.01,
-      "chainId": 97
-    },
-    {
-      "name": "TeraBlock",
-      "symbol": "TBC",
-      "address": "0xf797f4591aAe59C7911fcc4E4ce14f881342619D",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/terablock.png",
-      "decimals": 18,
-      "price": 0.03631,
-      "chainId": 97
-    },
-    {
-      "name": "Peanut",
-      "symbol": "NUX",
-      "address": "0x4ac4dc79f4740b3107e0bb492f9dafc6f679d911",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/nux.png",
-      "decimals": 18,
-      "price": 0.06,
-      "chainId": 97
-    },
-    {
-      "name": "WallStreetBets DApp",
-      "symbol": "WSB",
-      "address": "0x23D8e49e95Fe5297739d21a3901056DB8aB8B47C",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/wsb.png",
-      "decimals": 18,
-      "price": 0.03102,
-      "chainId": 97
-    },
-    {
       "name": "Polkawar",
       "symbol": "PWAR",
       "address": "0x8197b1D816544e938E58D9A4476d2E34bdd3D056",
@@ -153,15 +18,6 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/sokuswap.png",
       "decimals": 18,
       "price": 0.002,
-      "chainId": 97
-    },
-    {
-      "name": "Binance-Peg BUSD Token",
-      "symbol": "BUSD",
-      "address": "0xC3A967c67431BD1a2206B854E588E6D4c628999A",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/binance-peg.png",
-      "decimals": 18,
-      "price": 1.0005,
       "chainId": 97
     },
     {
@@ -207,24 +63,6 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/smg.png",
       "decimals": 8,
       "price": 0.05301,
-      "chainId": 97
-    },
-    {
-      "name": "New Umbrella Network",
-      "symbol": "UMB",
-      "address": "0x1852FdF082D438C494eb5E292a4485B9B8A8c0Cb",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/umbrella.png",
-      "decimals": 18,
-      "price": 0.7,
-      "chainId": 97
-    },
-    {
-      "name": "New Unido EP",
-      "symbol": "UDO",
-      "address": "0xEAeD7e3cADc8f312260F8A732A7F5E48Ad1E26e5",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/unido.png",
-      "decimals": 18,
-      "price": 0.3,
       "chainId": 97
     }
   ],
