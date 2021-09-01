@@ -5,7 +5,7 @@
     {
       "name": "ORO Token",
       "symbol": "ORO",
-      "address": "0xef67699222EE81F6a6Dcd0a9ba88C24d783c3b46",
+      "address": "0xE89098E4F2d69Fd364c833C1ae8E358ca2A38875",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oro.png",
       "decimals": 18,
       "price": 0.33,
@@ -15,7 +15,7 @@
     {
       "name": "RAZOR",
       "symbol": "RAZOR",
-      "address": "0x3CeEB5d4BA5F21bDdB09f4Fb834792D00DA03A5b",
+      "address": "0x90860FF49535fa3768514763faD3e1988F25e1E3",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/razor.png",
       "decimals": 18,
       "price": 0.5,
@@ -25,7 +25,7 @@
     {
       "name": "Unifarm Token",
       "symbol": "UFARM",
-      "address": "0xf7745D2e7FdE51c542568F718457d983F761e8C3",
+      "address": "0xd597aE31361D81214596683D18aa51b7108e8909",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
       "decimals": 18,
       "price": 0.12,
@@ -34,7 +34,7 @@
     {
       "name": "Netvrk",
       "symbol": "NTVRK",
-      "address": "0xCeABE8ce0b52d5B1B978C3D53AAd21244337540f",
+      "address": "0x41CE6c2b2Ab12f03b33af3dacaa9Ee9B31e0d780",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ntvrk.png",
       "decimals": 18,
       "price": 0.32,
@@ -43,7 +43,7 @@
     {
       "name": "Polkally",
       "symbol": "KALLY",
-      "address": "0x55964cFECee16e751271F502172a23087D02cA0b",
+      "address": "0x5972f9399C6E0A7fDE591BF192958966718AA028",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pollkaly.png",
       "decimals": 18,
       "price": 0.03,
@@ -52,7 +52,7 @@
     {
       "name": "UnoRe",
       "symbol": "UNO",
-      "address": "0x7C4f2F31aF7f9a3A527AF7b23135e4b268EE96Df",
+      "address": "0x9b69194Bf64E521F1b9E22e65a705423C62C90bb",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/uno.png",
       "decimals": 18,
       "price": 0.1271,
@@ -61,7 +61,7 @@
     {
       "name": "Bitcashpay",
       "symbol": "BCP",
-      "address": "0xA3E560F8261B7aab11ff114aB98C6056c94fa632",
+      "address": "0xBF08b10e02F96E1b1E8C4470a97a001d19f688C8",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bitcash.png",
       "decimals": 8,
       "price": 0.005217,
@@ -70,7 +70,7 @@
     {
       "name": "Definity",
       "symbol": "DEFX",
-      "address": "0xF901CB917933a99a59E3843e4b8d5054F5102f79",
+      "address": "0x2130745ee2166702921db56c7A3b411Bd9f79d6b",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/defx.png",
       "decimals": 18,
       "price": 0.08728,
