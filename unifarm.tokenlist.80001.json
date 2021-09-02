@@ -55,6 +55,33 @@
       "decimals": 18,
       "price": 4.42,
       "chainId": 80001
+    },
+    {
+      "name": "PolyWhirl",
+      "symbol": "WHIRL",
+      "address": "0xb66b6e739b10af999f60d251426559f4ab99c834",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/whril.png",
+      "decimals": 18,
+      "price": 0.25,
+      "chainId": 80001
+    },
+    {
+      "name": "Singular",
+      "symbol": "SING",
+      "address": "0x138b7d3126df1e5833abaca5f979ee1819ad0131",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/sing.png",
+      "decimals": 18,
+      "price": 0.02,
+      "chainId": 80001
+    },
+    {
+      "name": "Opendefi by Oropocket",
+      "symbol": "ORO",
+      "address": "0xd43bd6dd3e306dbc08567b08ce4fcc2f8913ee6d",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oro.png",
+      "decimals": 18,
+      "price": 0.14,
+      "chainId": 80001
     }
   ],
   "label": "maintained by Oro Pocket",
