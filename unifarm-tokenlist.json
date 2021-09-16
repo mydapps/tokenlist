@@ -433,6 +433,33 @@
       "chainId": 4
     },
     {
+      "name": "TribeOne",
+      "symbol": "HAKA",
+      "address": "0x2bbccfB7139A4407f81CaF816ce8e5B7860E03A4",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/haka.png",
+      "decimals": 18,
+      "price": 0.1289,
+      "chainId": 4
+    },
+    {
+      "name": "Skyrim Finance",
+      "symbol": "SKYRIM",
+      "address": "0x983626cBF03Be12F3086c01631356bAB01864d28",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/skyrim.png",
+      "decimals": 18,
+      "price": 0.1503,
+      "chainId": 4
+    },
+    {
+      "name": "DragonVein",
+      "symbol": "DVC",
+      "address": "0xd15FE54E5f653a37B6c742a2935d72D57b1bF7C0",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/dvc.png",
+      "decimals": 18,
+      "price": 0.007071,
+      "chainId": 4
+    },
+    {
       "name": "PAID NETWORK V2",
       "symbol": "PAID V2",
       "address": "0x7d65bc7b054a1c00a0de144fed632bf90b6b88b6",
