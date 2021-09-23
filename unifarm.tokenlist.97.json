@@ -210,6 +210,33 @@
       "chainId": 97
     },
     {
+      "name": "Hesh.fi",
+      "symbol": "HESH",
+      "address": "0x39b0E8A58343d721b0283974544c3A5B9E1B243f",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hesh.png",
+      "decimals": 18,
+      "price": 3.47,
+      "chainId": 97
+    },
+    {
+      "name": "Manga Token",
+      "symbol": "MANGA",
+      "address": "0xe72Ec837CF4308B8E793212c3D3A0E81aa2f032F",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/manga.png",
+      "decimals": 18,
+      "price": 0.001301,
+      "chainId": 97
+    },
+    {
+      "name": "Creator Platform",
+      "symbol": "CTR",
+      "address": "0x3cEc8C3ec4DAb0219d2a30c0D17Bf7763c88E297",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ctr.png",
+      "decimals": 18,
+      "price": 0.4051,
+      "chainId": 97
+    },
+    {
       "name": "New Umbrella Network",
       "symbol": "UMB",
       "address": "0x1852FdF082D438C494eb5E292a4485B9B8A8c0Cb",
