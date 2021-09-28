@@ -466,6 +466,14 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/paidnetwork.png",
       "decimals": 18,
       "price": 3.1
+    },
+    {
+      "name": "Creator Platform",
+      "symbol": "CTR",
+      "address": "0xAB463bfc4850a6b1dA9c12E8303C663CCA123943",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ctr.png",
+      "decimals": 18,
+      "price": 0.4051
     }
   ],
   "label": "maintained by Oro Pocket",
