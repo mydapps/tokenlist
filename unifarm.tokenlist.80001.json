@@ -82,7 +82,42 @@
       "decimals": 18,
       "price": 0.14,
       "chainId": 80001
-      
+    },
+    {
+      "name": "RetroDEFI",
+      "symbol": "pQBERT",
+      "address": "0x054a2526FDD6262167bAd558184C1549FACf3de1",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pqbert.png",
+      "decimals": 18,
+      "price": 0.19,
+      "chainId": 80001
+    },
+    {
+      "name": "Quickswap",
+      "symbol": "QUICK",
+      "address": "0x9f019D0793a621dC6bDbD6DAeADD0A64f17359df",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/quick.png",
+      "decimals": 18,
+      "price": 340.53,
+      "chainId": 80001
+    },
+    {
+      "name": "Kommunitas",
+      "symbol": "KOM",
+      "address": "0x8edFcc60d6Dd25611FE6ACb915F162ad5D84E97d",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/kom.png",
+      "decimals": 18,
+      "price": 0.0008263,
+      "chainId": 80001
+    },
+    {
+      "name": "Ispolink",
+      "symbol": "ISP",
+      "address": "0xA9ba64248BA2171AC311e5F0dC888590936Ab84e",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/isoplonic.png",
+      "decimals": 18,
+      "price": 0.002866,
+      "chainId": 80001
     }
   ],
   "label": "maintained by Oro Pocket",
