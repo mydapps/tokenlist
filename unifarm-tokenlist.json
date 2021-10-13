@@ -465,7 +465,8 @@
       "address": "0x7d65bc7b054a1c00a0de144fed632bf90b6b88b6",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/paidnetwork.png",
       "decimals": 18,
-      "price": 3.1
+      "price": 3.1,
+      "chainId": 4
     },
     {
       "name": "Creator Platform",
@@ -473,7 +474,8 @@
       "address": "0xAB463bfc4850a6b1dA9c12E8303C663CCA123943",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ctr.png",
       "decimals": 18,
-      "price": 0.4051
+      "price": 0.4051,
+      "chainId": 4
     }
   ],
   "label": "maintained by Oro Pocket",
