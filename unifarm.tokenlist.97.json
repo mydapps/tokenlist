@@ -258,7 +258,7 @@
       "name": "StartFi",
       "symbol": "STFI",
       "address": "0x8113665988C0011AE5Cd9E18061D8F9AEef1BbD7",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/stfi.jpeg",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/stfi.jpeg",
       "decimals": 18,
       "price": 0.104,
       "chainId": 97
@@ -267,7 +267,7 @@
       "name": "Derived",
       "symbol": "DVDX",
       "address": "0x2b63b4c5d6c2e7B8805A6Eb7536156C8e4D74AA0",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/dvdx.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/dvdx.png",
       "decimals": 18,
       "price": 0.05835,
       "chainId": 97
@@ -276,7 +276,7 @@
       "name": "Raze Network",
       "symbol": "RAZE",
       "address": "0xA1f0288E7395da47692a0755829eEbCE90b9F059",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/raze.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/raze.png",
       "decimals": 18,
       "price": 0.1664,
       "chainId": 4
