@@ -258,7 +258,7 @@
       "name": "StartFi",
       "symbol": "STFI",
       "address": "0x8113665988C0011AE5Cd9E18061D8F9AEef1BbD7",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/stfi.jpeg",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/stfi.png",
       "decimals": 18,
       "price": 0.104,
       "chainId": 97
