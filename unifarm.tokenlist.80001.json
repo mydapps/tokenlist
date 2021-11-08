@@ -123,7 +123,7 @@
       "name": "GamyFi",
       "symbol": "GFX",
       "address": "0x96bCB47eaC3BBdBcCD8dD65dB9D8d0f4d1d60Ea2",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gamyfi.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/gamyfi.png",
       "decimals": 18,
       "price": 1.93,
       "chainId": 4
@@ -132,7 +132,7 @@
       "name": "PolyTrade",
       "symbol": "Trade",
       "address": "0x2C914E525F717637c6728159d8A413f9057822ad",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/trade.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/trade.png",
       "decimals": 18,
       "price": 0.432,
       "chainId": 4
