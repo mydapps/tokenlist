@@ -57,7 +57,7 @@
       "chainId": 80001
     },
     {
-      "name": "PolyWhirl",
+      "name": "OmniWhirl",
       "symbol": "WHIRL",
       "address": "0xb66b6e739b10af999f60d251426559f4ab99c834",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/whril.png",
@@ -118,6 +118,24 @@
       "decimals": 18,
       "price": 0.002866,
       "chainId": 80001
+    },
+    {
+      "name": "GamyFi",
+      "symbol": "GFX",
+      "address": "0x96bCB47eaC3BBdBcCD8dD65dB9D8d0f4d1d60Ea2",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gamyfi.png",
+      "decimals": 18,
+      "price": 1.93,
+      "chainId": 4
+    },
+    {
+      "name": "PolyTrade",
+      "symbol": "Trade",
+      "address": "0x2C914E525F717637c6728159d8A413f9057822ad",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/trade.png",
+      "decimals": 18,
+      "price": 0.432,
+      "chainId": 4
     }
   ],
   "label": "maintained by Oro Pocket",
