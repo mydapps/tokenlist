@@ -279,7 +279,7 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/raze.png",
       "decimals": 18,
       "price": 0.1664,
-      "chainId": 4
+      "chainId": 97
     },
     {
       "name": "Bitcashpay",
@@ -288,7 +288,16 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bitcash.png",
       "decimals": 18,
       "price": 0.06114,
-      "chainId": 4
+      "chainId": 97
+    },
+    {
+      "name": "ItsMyne",
+      "symbol": "MYNE",
+      "address": "0xEb805C37681FF5F33172Ee973f13a625E657054F",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/itsmyne.png",
+      "decimals": 18,
+      "price": 0.16,
+      "chainId": 97
     }
   ],
   "label": "maintained by Oro Pocket",
