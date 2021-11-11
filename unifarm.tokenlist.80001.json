@@ -126,7 +126,7 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/gamyfi.png",
       "decimals": 18,
       "price": 1.93,
-      "chainId": 4
+      "chainId": 80001
     },
     {
       "name": "PolyTrade",
@@ -135,7 +135,16 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/trade.png",
       "decimals": 18,
       "price": 0.432,
-      "chainId": 4
+      "chainId": 80001
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "address": "0x0d787a4a1548f673ed375445535a6c7A1EE56180",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/wbtc.png",
+      "decimals": 8,
+      "price": 65259.07,
+      "chainId": 80001
     }
   ],
   "label": "maintained by Oro Pocket",
