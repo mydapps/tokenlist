@@ -294,9 +294,45 @@
       "name": "ItsMyne",
       "symbol": "MYNE",
       "address": "0xEb805C37681FF5F33172Ee973f13a625E657054F",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/itsmyne.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/myne.png",
       "decimals": 18,
       "price": 0.16,
+      "chainId": 97
+    },
+    {
+      "name": "VirgodEx",
+      "symbol": "VDF",
+      "address": "0x4FB6b7235f3447D1bB4f15930D13B7484Fd1C0De",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/vdf.png",
+      "decimals": 18,
+      "price": 0.02,
+      "chainId": 97
+    },
+    {
+      "name": "Pacific DeFi",
+      "symbol": "PACIFIC",
+      "address": "0xe7400b661c506c80fE04F2A3DEd9cB7A2387192E",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/pacific.png",
+      "decimals": 18,
+      "price": 0.04166,
+      "chainId": 97
+    },
+    {
+      "name": "Hedget Protocol",
+      "symbol": "HGET",
+      "address": "0xEDcA1eEE4F3dfc4072e6a5F35E604b4a83061D74",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/hget.png",
+      "decimals": 18,
+      "price": 4.96,
+      "chainId": 97
+    },
+    {
+      "name": "Travel Coin",
+      "symbol": "TCOIN",
+      "address": "0xe3a5e03FB4B7e2480D982d63cA6A3d0340B6bEb7",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/tcoin.png",
+      "decimals": 18,
+      "price": 0.04,
       "chainId": 97
     }
   ],
