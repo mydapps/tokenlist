@@ -300,15 +300,6 @@
       "chainId": 97
     },
     {
-      "name": "VirgodEx",
-      "symbol": "VDF",
-      "address": "0x4FB6b7235f3447D1bB4f15930D13B7484Fd1C0De",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/vdf.png",
-      "decimals": 18,
-      "price": 0.02,
-      "chainId": 97
-    },
-    {
       "name": "Pacific DeFi",
       "symbol": "PACIFIC",
       "address": "0xe7400b661c506c80fE04F2A3DEd9cB7A2387192E",

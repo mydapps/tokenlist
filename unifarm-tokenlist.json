@@ -476,6 +476,33 @@
       "decimals": 18,
       "price": 0.4051,
       "chainId": 4
+    },
+    {
+      "name": "Cudos",
+      "symbol": "CUDOS",
+      "address": "0x3da4576595e49a0aBBAd0723e309DC62FB7D7dce",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cudos.png",
+      "decimals": 18,
+      "price": 0.05261,
+      "chainId": 4
+    },
+    {
+      "name": "Picipo",
+      "symbol": "PICIPO",
+      "address": "0xaD2F6c3d61B0F6448f84167B0f00895a8d639a97",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/picipo.png",
+      "decimals": 18,
+      "price": 0.04,
+      "chainId": 4
+    },
+    {
+      "name": "HASH Token",
+      "symbol": "HASH",
+      "address": "0x066607b716e3Ed0d795d16A03CC954D6D2908CF6",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hash.png",
+      "decimals": 18,
+      "price": 0.05987,
+      "chainId": 4
     }
   ],
   "label": "maintained by Oro Pocket",
