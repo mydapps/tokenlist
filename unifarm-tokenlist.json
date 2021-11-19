@@ -3,129 +3,130 @@
   "ipfs": 0,
   "tokenlist": [
     {
-      "name": "ORO Token",
+      "name": "Opendefi by Oropocket",
       "symbol": "ORO",
-      "address": "0xef67699222EE81F6a6Dcd0a9ba88C24d783c3b46",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oro.png",
+      "address": "0xc3Eb2622190c57429aac3901808994443b64B466",
+      "icon": "https://oropocket.com/unifarm/assets/icons/oro.png",
       "decimals": 18,
-      "price": 0.33,
-      "chainId": 4,
+      "price": 0.1,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "Polygon",
       "symbol": "MATIC",
-      "address": "0xe98F9b3892229784ccc1Fb9BF7F45C3579354118",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/matic.png",
+      "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+      "icon": "https://oropocket.com/unifarm/assets/icons/matic.png",
       "decimals": 18,
       "price": 0.04,
-      "chainId": 4,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "Centaur Token",
       "symbol": "CNTR",
-      "address": "0xbD43847337b0558828aB6290599b20995b1367A8",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cntr.png",
+      "address": "0x03042482d64577A7bdb282260e2eA4c8a89C064B",
+      "icon": "https://oropocket.com/unifarm/assets/icons/cntr.png",
       "decimals": 18,
       "price": 0.004,
-      "chainId": 4,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "Reef.finance",
       "symbol": "REEF",
-      "address": "0xCcC3206CEe685bBD62ABcC37C99404d8eF0f23a7",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/reef.png",
+      "address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
+      "icon": "https://oropocket.com/unifarm/assets/icons/reef.png",
       "decimals": 18,
       "price": 0.016,
-      "chainId": 4,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "Frontier Token",
       "symbol": "FRONT",
-      "address": "0x5B11390207F723145a47dC4a6B69A2C5773FfB25",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/frontier.png",
+      "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+      "icon": "https://oropocket.com/unifarm/assets/icons/frontier.png",
       "decimals": 18,
       "price": 0.68,
-      "chainId": 4,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "Terra Virtua Kolect",
       "symbol": "TVK",
-      "address": "0xBe2845E7520223BfD6Ab4e6f6ad4369f6FFa6E0E",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/tvk.png",
+      "address": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
+      "icon": "https://oropocket.com/unifarm/assets/icons/tvk.png",
       "decimals": 18,
       "price": 0.16,
-      "chainId": 4,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "Router Protocol",
       "symbol": "ROUTE",
-      "address": "0xb47f597260edbf30386aecc28938b25d5f0635b7",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/route.png",
+      "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+      "icon": "https://oropocket.com/unifarm/assets/icons/route.png",
       "decimals": 18,
       "price": 2.4,
-      "chainId": 4,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "ZeroSwap Token",
       "symbol": "ZEE",
-      "address": "0x3555209ff2933b548ee31646cb3ee201f41a2625",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/zeroswap.png",
+      "address": "0x2eDf094dB69d6Dcd487f1B3dB9febE2eeC0dd4c5",
+      "icon": "https://oropocket.com/unifarm/assets/icons/zeroswap.png",
       "decimals": 18,
       "price": 0.35,
-      "chainId": 4,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "Nord Token",
       "symbol": "NORD",
-      "address": "0xb596e98821c558860ec5d3d59460ea9e19a44f66",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/nord.png",
+      "address": "0x6e9730EcFfBed43fD876A264C982e254ef05a0DE",
+      "icon": "https://oropocket.com/unifarm/assets/icons/nord.png",
       "decimals": 18,
       "price": 4.62,
-      "chainId": 4,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "MANTRA DAO",
       "symbol": "OM",
-      "address": "0x48452b50C5639b1d19C5e2BBC706AAcB42Fec9E8",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/mantradado.png",
+      "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+      "icon": "https://oropocket.com/unifarm/assets/icons/mantradado.png",
       "decimals": 18,
       "price": 0.23,
-      "chainId": 4,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "RAZOR",
       "symbol": "RAZOR",
-      "address": "0x3CeEB5d4BA5F21bDdB09f4Fb834792D00DA03A5b",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/razor.png",
+      "address": "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd",
+      "icon": "https://oropocket.com/unifarm/assets/icons/razor.png",
       "decimals": 18,
-      "price": 0.5,
-      "chainId": 4,
+      "price": 0.083,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "PLOT",
       "symbol": "PLOT",
-      "address": "0x4784c3F6ad665A666b6eFEFD7Fe65c85f70531a4",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/plotx.png",
+      "address": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb",
+      "icon": "https://oropocket.com/unifarm/assets/icons/plotx.png",
       "decimals": 18,
       "price": 0.11,
-      "chainId": 4
+      "chainId": 1,
+      "tags": []
     },
     {
       "name": "PAID NETWORK",
       "symbol": "PAID",
-      "address": "0x348C5cE913cCdEb257B0381C920697Cf26C6fcF7",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/paidnetwork.png",
+      "address": "0x8c8687fC965593DFb2F0b4EAeFD55E9D8df348df",
+      "icon": "https://oropocket.com/unifarm/assets/icons/paidnetwork.png",
       "decimals": 18,
       "price": 3.1,
       "chainId": 4,
@@ -134,375 +135,374 @@
     {
       "name": "Royale",
       "symbol": "ROYA",
-      "address": "0x2E844B9eE72008D1efA33d5EBC2A2950b4d5296f",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/royal.png",
+      "address": "0x7eaF9C89037e4814DC0d9952Ac7F888C784548DB",
+      "icon": "https://oropocket.com/unifarm/assets/icons/royal.png",
       "decimals": 18,
       "price": 0.35,
-      "chainId": 4,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "APYSwap",
       "symbol": "APYS",
-      "address": "0x8610A8669C986799ad2E786F8B54354203E42a60",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/apyswap.png",
+      "address": "0xf7413489c474ca4399eee604716c72879eea3615",
+      "icon": "https://oropocket.com/unifarm/assets/icons/apyswap.png",
       "decimals": 18,
-      "price": 1.93,
-      "chainId": 4,
+      "price": 2,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "Playcent",
       "symbol": "PCNT",
-      "address": "0xd13ed2055756a27c400bccd25aca6abf7c05c19f",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/playcent.png",
+      "address": "0x657b83a0336561c8f64389a6f5ade675c04b0c3b",
+      "icon": "https://oropocket.com/unifarm/assets/icons/playcent.png",
       "decimals": 18,
-      "price": 0.57,
-      "chainId": 4,
+      "price": 0.9,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "HAPI",
       "symbol": "HAPI",
-      "address": "0x179Cf3CfD5eB757dC33A87Ec39d0d968A72fCA6c",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hapi.png",
+      "address": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+      "icon": "https://oropocket.com/unifarm/assets/icons/hapi.png",
       "decimals": 18,
-      "price": 125.96,
-      "chainId": 4,
+      "price": 125,
+      "chainId": 1,
       "tags": []
     },
     {
       "name": "RioDeFi",
       "symbol": "RFUEL",
-      "address": "0xba34Af6d267408Df563B0E3F35D19E640710DDC6",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/rio.png",
+      "address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
+      "icon": "https://oropocket.com/unifarm/assets/icons/rio.png",
       "decimals": 18,
       "price": 0.1,
-      "chainId": 4
+      "chainId": 1
     },
     {
       "name": "Polkacover",
       "symbol": "CVR",
-      "address": "0xfc668FD364a9Ad36be7846681b5129e616Ec8105",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/polkacover.png",
+      "address": "0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
+      "icon": "https://oropocket.com/unifarm/assets/icons/polkacover.png",
       "decimals": 18,
-      "price": 0.5,
-      "chainId": 4
+      "price": 0.49,
+      "chainId": 1
     },
     {
       "name": "GamyFi",
       "symbol": "GFX",
-      "address": "0xAC64a95Cf82F0bd02d69f68C365cCaE0E853fDc4",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gamyfi.png",
+      "address": "0xe4fa3c576c31696322e8d7165c5965d5a1f6a1a5",
+      "icon": "https://oropocket.com/unifarm/assets/icons/gamyfi.png",
       "decimals": 18,
-      "price": 2.59,
-      "chainId": 4
+      "price": 2.67,
+      "chainId": 1
     },
     {
       "name": "Unifarm Token",
       "symbol": "UFARM",
-      "address": "0xf7745D2e7FdE51c542568F718457d983F761e8C3",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
+      "address": "0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
+      "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
       "decimals": 18,
-      "price": 0.12,
-      "chainId": 4
+      "price": 0.027,
+      "chainId": 1
     },
     {
       "name": "Kylin Network",
       "symbol": "KYL",
-      "address": "0x579CdC5CA29b368c926cF122B6a2974F67EBC0Af",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/Kylin.png",
+      "address": "0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c",
+      "icon": "https://oropocket.com/unifarm/assets/icons/Kylin.png",
       "decimals": 18,
-      "price": 0.72,
-      "chainId": 4
+      "price": 0.78,
+      "chainId": 1
     },
     {
       "name": "DeHive",
       "symbol": "DHV",
-      "address": "0x861E809562Cb2C91eEddFD70d99343fc6DC98A0d",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/Dehive.png",
+      "address": "0x62dc4817588d53a056cbbd18231d91ffccd34b2a",
+      "icon": "https://oropocket.com/unifarm/assets/icons/Dehive.png",
       "decimals": 18,
-      "price": 4.72,
-      "chainId": 4
+      "price": 4.84,
+      "chainId": 1
     },
     {
       "name": "Polkalokr",
       "symbol": "LKR",
-      "address": "0x176536114B0A7Cf95fAcd542dA10E669De7f6f81",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/polkalokr.png",
+      "address": "0x80ce3027a70e0a928d9268994e9b85d03bd4cdcf",
+      "icon": "https://oropocket.com/unifarm/assets/icons/polkalokr.png",
       "decimals": 18,
-      "price": 0.38,
-      "chainId": 4
+      "price": 0.42,
+      "chainId": 1
     },
     {
       "name": "PolkaBridge",
       "symbol": "PBR",
-      "address": "0xC10bbe7DC1701B3f17276CD2665DE8de9EC73aC5",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/Polkabridge.png",
+      "address": "0x298d492e8c1d909d3f63bc4a36c66c64acb3d695",
+      "icon": "https://oropocket.com/unifarm/assets/icons/Polkabridge.png",
       "decimals": 18,
-      "price": 0.22,
-      "chainId": 4
+      "price": 0.23,
+      "chainId": 1
     },
     {
       "name": "Argo App",
       "symbol": "ARGO",
-      "address": "0x168dd87F71Dc6b27d16eaC186556278d81292C1C",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ArGoApp.png",
+      "address": "0x28cca76f6e8ec81e4550ecd761f899110b060e97",
+      "icon": "https://oropocket.com/unifarm/assets/icons/ArGoApp.png",
       "decimals": 18,
-      "price": 0.38,
-      "chainId": 4
+      "price": 0.4,
+      "chainId": 1
     },
     {
       "name": "QUAI DAO",
       "symbol": "QUAI",
-      "address": "0x38BcD9aa48533BF90919Ac89f8D7D19861DEC20B",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/quai.png",
+      "address": "0x40821cd074dfecb1524286923bc69315075b5c89",
+      "icon": "https://oropocket.com/unifarm/assets/icons/quai.png",
       "decimals": 18,
-      "price": 0.32,
-      "chainId": 4
+      "price": 0.28,
+      "chainId": 1
     },
     {
       "name": "Bonfi",
       "symbol": "BNF",
-      "address": "0x925f5E911499D552baC089D1f111ca4f39072eae",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bonfi.png",
+      "address": "0x1de5e000c41c8d35b9f1f4985c23988f05831057",
+      "icon": "https://oropocket.com/unifarm/assets/icons/bnf.png",
       "decimals": 18,
-      "price": 0.005,
-      "chainId": 4
+      "price": 0.0063,
+      "chainId": 1
     },
     {
       "name": "Raze Network",
       "symbol": "RAZE",
-      "address": "0xB4EEc45cf3c907fc84Fe9544cf08A79D7c842C4D",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/raze.png",
+      "address": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac",
+      "icon": "https://oropocket.com/unifarm/assets/icons/raze-network.png",
       "decimals": 18,
-      "price": 0.293,
-      "chainId": 4
+      "price": 0.32,
+      "chainId": 1
     },
     {
       "name": "Netvrk",
       "symbol": "NTVRK",
-      "address": "0xCeABE8ce0b52d5B1B978C3D53AAd21244337540f",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ntvrk.png",
+      "address": "0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a",
+      "icon": "https://oropocket.com/unifarm/assets/icons/netvrk.png",
       "decimals": 18,
-      "price": 0.32,
-      "chainId": 4
+      "price": 0.16,
+      "chainId": 1
     },
     {
       "name": "Polkally",
       "symbol": "KALLY",
-      "address": "0x55964cFECee16e751271F502172a23087D02cA0b",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pollkaly.png",
+      "address": "0xfd30c9bea1a952feeed2ef2c6b2ff8a8fc4aad07",
+      "icon": "https://oropocket.com/unifarm/assets/icons/pollkaly.png",
       "decimals": 18,
-      "price": 0.03,
-      "chainId": 4
+      "price": 0.011,
+      "chainId": 1
     },
     {
       "name": "Ispolink",
       "symbol": "ISP",
-      "address": "0x9D19294ec8E4742fa08344296146E2F480ceD946",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/isoplonic.png",
+      "address": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
+      "icon": "https://oropocket.com/unifarm/assets/icons/isoplonic.png",
       "decimals": 18,
-      "price": 0.002,
-      "chainId": 4
+      "price": 0.0027,
+      "chainId": 1
     },
     {
       "name": "Idavoll Network",
       "symbol": "IDV",
-      "address": "0x29d3A33F8F1c814FFBf66CA314Ae0ad07de398cB",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ada.png",
+      "address": "0x92ec47df1aa167806dfa4916d9cfb99da6953b8f",
+      "icon": "https://oropocket.com/unifarm/assets/icons/ada.png",
       "decimals": 18,
-      "price": 0.02,
-      "chainId": 4
+      "price": 0.025,
+      "chainId": 1
     },
     {
-      "name": "Chroma",
+      "name": "Chromia",
       "symbol": "CHR",
-      "address": "0xC45fd373C3cbE98c008b7cb95BCA27ab9DC129cE",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/chromia.png",
+      "address": "0x8A2279d4A90B6fe1C4B30fa660cC9f926797bAA2",
+      "icon": "https://oropocket.com/unifarm/assets/icons/chromia.png",
       "decimals": 6,
-      "price": 0.2122,
-      "chainId": 4
+      "price": 0.188,
+      "chainId": 1
     },
     {
       "name": "STACK OS",
       "symbol": "STACK",
-      "address": "0x96E9438Cb0F37E1E357A903a3189b2935098440A",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/stack.png",
+      "address": "0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
+      "icon": "https://oropocket.com/unifarm/assets/icons/stack.png",
       "decimals": 18,
-      "price": 0.03,
-      "chainId": 4
+      "price": 0.046,
+      "chainId": 1
     },
     {
       "name": "TeraBlock",
       "symbol": "TBC",
-      "address": "0x44D39aecD5b5F5500cC077A2c11a404223B91582",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/terablock.png",
+      "address": "0xa1ed0364d53394209d61ae8bfdb8ff50484d8c91",
+      "icon": "https://oropocket.com/unifarm/assets/icons/terablock.png",
       "decimals": 18,
-      "price": 0.06,
-      "chainId": 4
+      "price": 0.069,
+      "chainId": 1
     },
     {
       "name": "Gains",
       "symbol": "GAINS",
-      "address": "0xcd49901EE9C6f1E28b1619361a68FE33FF79CEA6",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gains.png",
+      "address": "0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9",
+      "icon": "https://oropocket.com/unifarm/assets/icons/gains.png",
       "decimals": 18,
-      "price": 0.1177,
-      "chainId": 4
+      "price": 0.125,
+      "chainId": 1
     },
     {
       "name": "Singularity DAO",
       "symbol": "SDAO",
-      "address": "0xD758484E0c5A4D2F8d793FAee39ce8e63Efab76C",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/singularitydao.png",
+      "address": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
+      "icon": "https://oropocket.com/unifarm/assets/icons/singularitydao.png",
       "decimals": 18,
-      "price": 0.6138,
-      "chainId": 4
+      "price": 0.68,
+      "chainId": 1
     },
     {
       "name": "Peanut",
       "symbol": "NUX",
-      "address": "0x051efD58efd55917393911a5e071A4CD97dB327f",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/nux.png",
+      "address": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+      "icon": "https://oropocket.com/unifarm/assets/icons/nux.png",
       "decimals": 18,
-      "price": 0.06,
-      "chainId": 4
-    },
-    {
-      "name": "Pinknode",
-      "symbol": "PNODE",
-      "address": "0x909B40A88a27F7FD2C8Ea592571BF4d862985563",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pinknode.png",
-      "decimals": 18,
-      "price": 0.04647,
-      "chainId": 4
-    },
-    {
-      "name": "Polkafoundry",
-      "symbol": "PKF",
-      "address": "0x3B5F4f6874122F77A365bb9F2fFddF809Bcb231d",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/polkafoundry.png",
-      "decimals": 18,
-      "price": 0.1843,
-      "chainId": 4
-    },
-    {
-      "name": "UnoRe",
-      "symbol": "UNO",
-      "address": "0x7C4f2F31aF7f9a3A527AF7b23135e4b268EE96Df",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/uno.png",
-      "decimals": 18,
-      "price": 0.1271,
-      "chainId": 4
-    },
-    {
-      "name": "Bitcashpay",
-      "symbol": "BCP",
-      "address": "0xA3E560F8261B7aab11ff114aB98C6056c94fa632",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bitcash.png",
-      "decimals": 8,
-      "price": 0.005217,
-      "chainId": 4
-    },
-    {
-      "name": "Definity",
-      "symbol": "DEFX",
-      "address": "0xF901CB917933a99a59E3843e4b8d5054F5102f79",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/defx.png",
-      "decimals": 18,
-      "price": 0.08728,
-      "chainId": 4
-    },
-    {
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "address": "0xeb8f08a975ab53e34d8a0330e0d34de942c95926",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/usdc.png",
-      "decimals": 6,
-      "price": 1.01,
-      "chainId": 4
-    },
-    {
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "address": "0xc778417e063141139fce010982780140aa0cd5ab",
-      "icon": "https://oropocket.com/unifarm/assets/icons/WETH.png",
-      "decimals": 18,
-      "price": 3223.59,
-      "chainId": 4
-    },
-    {
-      "name": "TribeOne",
-      "symbol": "HAKA",
-      "address": "0x2bbccfB7139A4407f81CaF816ce8e5B7860E03A4",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/haka.png",
-      "decimals": 18,
-      "price": 0.1289,
-      "chainId": 4
-    },
-    {
-      "name": "Skyrim Finance",
-      "symbol": "SKYRIM",
-      "address": "0x983626cBF03Be12F3086c01631356bAB01864d28",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/skyrim.png",
-      "decimals": 18,
-      "price": 0.1503,
-      "chainId": 4
-    },
-    {
-      "name": "DragonVein",
-      "symbol": "DVC",
-      "address": "0xd15FE54E5f653a37B6c742a2935d72D57b1bF7C0",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/dvc.png",
-      "decimals": 18,
-      "price": 0.007071,
+      "price": 0.55,
       "chainId": 4
     },
     {
       "name": "PAID NETWORK V2",
       "symbol": "PAID V2",
-      "address": "0x7d65bc7b054a1c00a0de144fed632bf90b6b88b6",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/paidnetwork.png",
+      "address": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
+      "icon": "https://oropocket.com/unifarm/assets/icons/paidnetwork.png",
       "decimals": 18,
-      "price": 3.1,
-      "chainId": 4
+      "price": 3.1
     },
     {
-      "name": "Creator Platform",
-      "symbol": "CTR",
-      "address": "0xAB463bfc4850a6b1dA9c12E8303C663CCA123943",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ctr.png",
+      "name": "Pink Node",
+      "symbol": "PNODE",
+      "address": "0xaf691508ba57d416f895e32a1616da1024e882d2",
+      "icon": "https://oropocket.com/unifarm/assets/icons/pinknode.png",
       "decimals": 18,
-      "price": 0.4051,
-      "chainId": 4
+      "price": 0.046,
+      "chainId": 1
+    },
+    {
+      "name": "PolkaFoundry",
+      "symbol": "PKF",
+      "address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+      "icon": "https://oropocket.com/unifarm/assets/icons/polkafoundry.png",
+      "decimals": 18,
+      "price": 0.178,
+      "chainId": 1
+    },
+    {
+      "name": "UnoRe",
+      "symbol": "UNO",
+      "address": "0x474021845c4643113458ea4414bdb7fb74a01a77",
+      "icon": "https://oropocket.com/unifarm/assets/icons/uno.png",
+      "decimals": 18,
+      "price": 0.1,
+      "chainId": 1
+    },
+    {
+      "name": "Bitcashpay",
+      "symbol": "BCP",
+      "address": "0xe047705117Eb07e712C3d684f5B18E74577e83aC",
+      "icon": "https://oropocket.com/unifarm/assets/icons/bitcash.png",
+      "decimals": 8,
+      "price": 0.005,
+      "chainId": 1
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "icon": "https://oropocket.com/unifarm/assets/icons/WETH.png",
+      "decimals": 18,
+      "price": 3223.59,
+      "chainId": 1
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "icon": "https://oropocket.com/unifarm/assets/icons/usdc.png",
+      "decimals": 6,
+      "price": 1,
+      "chainId": 1
+    },
+    {
+      "name": "Definity",
+      "symbol": "DEFX",
+      "address": "0x5F474906637bdCDA05f29C74653F6962bb0f8eDa",
+      "icon": "https://oropocket.com/unifarm/assets/icons/defx.png",
+      "decimals": 18,
+      "price": 0.087,
+      "chainId": 1
+    },
+    {
+      "name": "Dragonvein Chain",
+      "symbol": "DVC",
+      "address": "0x00d46727c2E4A6E358A8c0D638137a3d91B19BE6",
+      "icon": "https://oropocket.com/unifarm/assets/icons/dvc.png",
+      "decimals": 18,
+      "price": 0.006,
+      "chainId": 1
+    },
+    {
+      "name": "Skyrim Finance",
+      "symbol": "SKYRIM",
+      "address": "0x2610f0bfc21ef389fe4d03cfb7de9ac1e6c99d6e",
+      "icon": "https://oropocket.com/unifarm/assets/icons/skyrim.png",
+      "decimals": 18,
+      "price": 0.128,
+      "chainId": 1
+    },
+    {
+      "name": "Tribe One",
+      "symbol": "HAKA",
+      "address": "0xd85ad783cc94bd04196a13dc042a3054a9b52210",
+      "icon": "https://oropocket.com/unifarm/assets/icons/haka.png",
+      "decimals": 18,
+      "price": 0.125,
+      "chainId": 1
+    },
+    {
+      "name": "Creator Chain",
+      "symbol": "CTR",
+      "address": "0x923b83c26b3809d960ff80332ed00aa46d7ed375",
+      "icon": "https://oropocket.com/unifarm/assets/icons/ctr.png",
+      "decimals": 18,
+      "price": 0.3,
+      "chainId": 1
     },
     {
       "name": "Cudos",
       "symbol": "CUDOS",
-      "address": "0x3da4576595e49a0aBBAd0723e309DC62FB7D7dce",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cudos.png",
+      "address": "0x817bbdbc3e8a1204f3691d14bb44992841e3db35",
+      "icon": "https://oropocket.com/unifarm/assets/icons/cudos.png",
       "decimals": 18,
-      "price": 0.05261,
-      "chainId": 4
+      "price": 0.047,
+      "chainId": 1
     },
     {
       "name": "Picipo",
       "symbol": "PICIPO",
-      "address": "0xaD2F6c3d61B0F6448f84167B0f00895a8d639a97",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/picipo.png",
+      "address": "0x1e05f68b29b286fb3bbad3c688d7e2abda549b80",
+      "icon": "https://oropocket.com/unifarm/assets/icons/picipo.png",
       "decimals": 18,
-      "price": 0.04,
-      "chainId": 4
+      "price": 0.061,
+      "chainId": 1
     },
     {
-      "name": "HASH Token",
+      "name": "Hash",
       "symbol": "HASH",
-      "address": "0x066607b716e3Ed0d795d16A03CC954D6D2908CF6",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hash.png",
+      "address": "0xeb1112ac78d537853150e2a07e8b765e29d3f019",
+      "icon": "https://oropocket.com/unifarm/assets/icons/hash.png",
       "decimals": 18,
-      "price": 0.05987,
-      "chainId": 4
+      "price": 0.065,
+      "chainId": 1
     }
   ],
   "label": "maintained by Oro Pocket",

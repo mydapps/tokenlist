@@ -1,0 +1,162 @@
+{
+  "maintainer": "Opendefi by Oropocket",
+  "ipfs": null,
+  "tokenlist": [
+    {
+      "name": "Unifarm Token",
+      "symbol": "UFARM",
+      "address": "0xa7305ae84519ff8be02484cda45834c4e7d13dd6",
+      "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
+      "decimals": 18,
+      "price": 0.026,
+      "chainId": 137
+    },
+    {
+      "name": "Bluzelle",
+      "symbol": "BLZ",
+      "address": "0x438b28c5aa5f00a817b7def7ce2fb3d5d1970974",
+      "icon": "https://oropocket.com/unifarm/assets/icons/blz.png",
+      "decimals": 18,
+      "price": 0.176,
+      "chainId": 137
+    },
+    {
+      "name": "Elk Finance",
+      "symbol": "ELK",
+      "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+      "icon": "https://oropocket.com/unifarm/assets/icons/elk.png",
+      "decimals": 18,
+      "price": 2,
+      "chainId": 137
+    },
+    {
+      "name": "Raze Network",
+      "symbol": "RAZE",
+      "address": "0xa947239adc5d53aa03e5f661a2e16d7b009fc5a6",
+      "icon": "https://oropocket.com/unifarm/assets/icons/raze.png",
+      "decimals": 18,
+      "price": 0.15,
+      "chainId": 137
+    },
+    {
+      "name": "Ferrum Network",
+      "symbol": "FRM",
+      "address": "0xd99bafe5031cc8b345cb2e8c80135991f12d7130",
+      "icon": "https://oropocket.com/unifarm/assets/icons/frm.png",
+      "decimals": 18,
+      "price": 0.15,
+      "chainId": 137
+    },
+    {
+      "name": "EasyFi",
+      "symbol": "EZ",
+      "address": "0x34c1b299a74588d6abdc1b85a53345a48428a521",
+      "icon": "https://oropocket.com/unifarm/assets/icons/easy.png",
+      "decimals": 18,
+      "price": 6.57,
+      "chainId": 137
+    },
+    {
+      "name": "Polywhirl",
+      "symbol": "POLYWHIRL",
+      "address": "0xfc5a11d0fe8b5ad23b8a643df5eae60b979ce1bf",
+      "icon": "https://oropocket.com/unifarm/assets/icons/whril.png",
+      "decimals": 18,
+      "price": 0.22,
+      "chainId": 137
+    },
+    {
+      "name": "Singular",
+      "symbol": "SING",
+      "address": "0xcb898b0efb084df14dd8e018da37b4d0f06ab26d",
+      "icon": "https://oropocket.com/unifarm/assets/icons/sing.png",
+      "decimals": 18,
+      "price": 1.55,
+      "chainId": 137
+    },
+    {
+      "name": "Retro Finance",
+      "symbol": "pQBERT",
+      "address": "0x40038c83e459937a988b669f1159cc78d8fdad68",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pqbert.png",
+      "decimals": 18,
+      "price": 0.531,
+      "chainId": 137
+    },
+    {
+      "name": "Quickswap",
+      "symbol": "QUICK",
+      "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/quick.png",
+      "decimals": 18,
+      "price": 351.56,
+      "chainId": 137
+    },
+    {
+      "name": "Kommunitas",
+      "symbol": "KOM",
+      "address": "0xc004e2318722ea2b15499d6375905d75ee5390b8",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/kom.png",
+      "decimals": 8,
+      "price": 0.0008,
+      "chainId": 137
+    },
+    {
+      "name": "Ispolink",
+      "symbol": "ISP",
+      "address": "0x1e289178612f5b6d32f692e312dcf783c74b2162",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/isoplonic.png",
+      "decimals": 18,
+      "price": 0.0028,
+      "chainId": 137
+    },
+    {
+      "name": "GamyFi",
+      "symbol": "GFX",
+      "address": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+      "icon": "https://oropocket.com/unifarm/assets/icons/gamyfi.png",
+      "decimals": 18,
+      "price": 1.42,
+      "chainId": 137
+    },
+    {
+      "name": "PolyTrade",
+      "symbol": "Trade",
+      "address": "0x692ac1e363ae34b6b489148152b12e2785a3d8d6",
+      "icon": "https://oropocket.com/unifarm/assets/icons/trade.png",
+      "decimals": 18,
+      "price": 0.42,
+      "chainId": 137
+    },
+    {
+      "name": "ORO Token",
+      "symbol": "ORO",
+      "address": "0x2651b9c63290e543902da4eb63c34029382ff552",
+      "icon": "https://oropocket.com/unifarm/assets/icons/oro.png",
+      "decimals": 18,
+      "price": 0.078,
+      "chainId": 137,
+      "tags": []
+    },
+    {
+      "name": "Omniwhirl",
+      "symbol": "WHIRL",
+      "address": "0x4f6cbaca3151f7746273004fd7295933a9b70e69",
+      "icon": "https://oropocket.com/unifarm/assets/icons/whril.png",
+      "decimals": 18,
+      "price": 0.22,
+      "chainId": 137
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+      "icon": "https://oropocket.com/unifarm/assets/icons/wbtc.png",
+      "decimals": 8,
+      "price": 64652.0,
+      "chainId": 137
+    }
+  ],
+  "label": "maintained by Oro Pocket",
+  "keywords": ["defi", "open defi", "Oro Pocket"]
+}
