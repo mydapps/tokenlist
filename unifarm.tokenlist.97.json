@@ -325,6 +325,33 @@
       "decimals": 18,
       "price": 0.04,
       "chainId": 97
+    },
+    {
+      "name": "CoinSwap Space",
+      "symbol": "CSS",
+      "address": "0x6C02779f31130Dc08b37914580b6D57752CCd6E4",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/css.png",
+      "decimals": 18,
+      "price": 0.7057,
+      "chainId": 97
+    },
+    {
+      "name": "The Troller Art",
+      "symbol": "TROLLER",
+      "address": "0x18A4e72bAa95E16E8016385e21379EFCBA5f18eD",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/troller.png",
+      "decimals": 18,
+      "price": 0.000000002941,
+      "chainId": 97
+    },
+    {
+      "name": "HASH Token",
+      "symbol": "HASH",
+      "address": "0x567CA1794827500Ea72610C5160139c591c6A0aA",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hash.png",
+      "decimals": 18,
+      "price": 0.05987,
+      "chainId": 97
     }
   ],
   "label": "maintained by Oro Pocket",
