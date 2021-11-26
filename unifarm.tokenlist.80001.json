@@ -145,24 +145,6 @@
       "decimals": 8,
       "price": 65259.07,
       "chainId": 80001
-    },
-    {
-      "name": "EmiSwap",
-      "symbol": "ESW",
-      "address": "0x4D43938E049eA3474267D96689D3e46fc33E1f41",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/esw.png",
-      "decimals": 18,
-      "price": 0.04591,
-      "chainId": 80001
-    },
-    {
-      "name": "Fabwelt",
-      "symbol": "WELT",
-      "address": "0xccf53D62Ccc0140BeF3906b6cf4c13206566b9d0",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/welt.png",
-      "decimals": 18,
-      "price": 0.03379,
-      "chainId": 80001
     }
   ],
   "label": "maintained by Oro Pocket",
