@@ -325,6 +325,24 @@
       "decimals": 4,
       "price": 0.2,
       "chainId": 56
+    },
+    {
+      "name": "CoinSwap Space",
+      "symbol": "CSS",
+      "address": "0x3bc5798416c1122bcfd7cb0e055d50061f23850d",
+      "icon": "https://oropocket.com/unifarm/assets/icons/css.png",
+      "decimals": 18,
+      "price": 0.07,
+      "chainId": 56
+    },
+    {
+      "name": "HASH Token",
+      "symbol": "HASH",
+      "address": "0xeb1112ac78d537853150e2a07e8b765e29d3f019",
+      "icon": "https://oropocket.com/unifarm/assets/icons/hash.png",
+      "decimals": 18,
+      "price": 0.037,
+      "chainId": 56
     }
   ],
   "label": "maintained by Oro Pocket",
