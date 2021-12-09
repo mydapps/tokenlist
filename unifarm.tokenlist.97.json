@@ -352,6 +352,42 @@
       "decimals": 18,
       "price": 0.05987,
       "chainId": 97
+    },
+    {
+      "name": "Jade Protocol",
+      "symbol": "JADE",
+      "address": "0x08eb071b45845c377383643e6794cdecadb3a799",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/jade.png",
+      "decimals": 18,
+      "price": 399.36,
+      "chainId": 97
+    },
+    {
+      "name": "gotEM",
+      "symbol": "GOTEM",
+      "address": "0xa542cb26da64b9495ca012b8e5d76800839ef702",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gotem.png",
+      "decimals": 18,
+      "price": 0.01348,
+      "chainId": 97
+    },
+    {
+      "name": "GameStar",
+      "symbol": "GMS",
+      "address": "0x89c5a0f53f939c50ae4a7200c13f90785cc15863",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gms.png",
+      "decimals": 18,
+      "price": 0.003273,
+      "chainId": 97
+    },
+    {
+      "name": "Outrace",
+      "symbol": "ORE",
+      "address": "0x136f967f8bc49d24a92185e31bd50b89c280c62a",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ore.png",
+      "decimals": 18,
+      "price": 0.01632141,
+      "chainId": 97
     }
   ],
   "label": "maintained by Oro Pocket",
