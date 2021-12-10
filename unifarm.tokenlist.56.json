@@ -343,6 +343,42 @@
       "decimals": 18,
       "price": 0.037,
       "chainId": 56
+    },
+    {
+      "name": "Jade Protocol",
+      "symbol": "JADE",
+      "address": "0x7ad7242a99f21aa543f9650a56d141c57e4f6081",
+      "icon": "https://oropocket.com/unifarm/assets/icons/jade.png",
+      "decimals": 9,
+      "price": 422.58,
+      "chainId": 56
+    },
+    {
+      "name": "gotEM",
+      "symbol": "GOTEM",
+      "address": "0xa5fbc3520dd4bb85fcd175e1e3b994546a2c1ee8",
+      "icon": "https://oropocket.com/unifarm/assets/icons/gotem.png",
+      "decimals": 18,
+      "price": 0.013,
+      "chainId": 56
+    },
+    {
+      "name": "GameStar",
+      "symbol": "GMS",
+      "address": "0xdae3c2cb0ac034a4a491b112d2922f12427201a6",
+      "icon": "https://oropocket.com/unifarm/assets/icons/gms.png",
+      "decimals": 18,
+      "price": 0.0036,
+      "chainId": 56
+    },
+    {
+      "name": "Outrace",
+      "symbol": "ORE",
+      "address": "0x91f006ee672f8f39c6e63ca75b1ca14067b3c366",
+      "icon": "https://oropocket.com/unifarm/assets/icons/ore.png",
+      "decimals": 8,
+      "price": 0.02,
+      "chainId": 56
     }
   ],
   "label": "maintained by Oro Pocket",
