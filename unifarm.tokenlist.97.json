@@ -388,6 +388,33 @@
       "decimals": 18,
       "price": 0.01632141,
       "chainId": 97
+    },
+    {
+      "name": "Fractal Trade",
+      "symbol": "FRAC",
+      "address": "0x8D0C52c37EEe27D2f46fBbcCa44Ffe5763ecdDCD",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/frac.png",
+      "decimals": 18,
+      "price": 0.23,
+      "chainId": 97
+    },
+    {
+      "name": "BeGlobal Finance",
+      "symbol": "GLB",
+      "address": "0x52B8701e1e3e00c36bb26354C54E44da62660586",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/glb.png",
+      "decimals": 18,
+      "price": 0.06312,
+      "chainId": 97
+    },
+    {
+      "name": "Open Rights Exchange",
+      "symbol": "ORE",
+      "address": "0xa6ee1C9edB7D8dCbCb150e4636F45622cB0DF274",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oer.png",
+      "decimals": 18,
+      "price": 0.09865,
+      "chainId": 97
     }
   ],
   "label": "maintained by Oro Pocket",
