@@ -379,6 +379,33 @@
       "decimals": 8,
       "price": 0.02,
       "chainId": 56
+    },
+    {
+      "name": "Fractal Investment Token",
+      "symbol": "FIT",
+      "address": "0x1e933ecc8251259d473827dfed48c19f2ed1889d",
+      "icon": "https://oropocket.com/unifarm/assets/icons/frac.png",
+      "decimals": 18,
+      "price": 0.095,
+      "chainId": 56
+    },
+    {
+      "name": "Global",
+      "symbol": "GLB",
+      "address": "0xcf958b53ec9340886d72bb4f5f2977e8c2ab64d3",
+      "icon": "https://oropocket.com/unifarm/assets/icons/glb.png",
+      "decimals": 18,
+      "price": 0.0625,
+      "chainId": 56
+    },
+    {
+      "name": "Ore",
+      "symbol": "ORE",
+      "address": "0x4ef285c8cbe52267c022c39da98b97ca4b7e2ff9",
+      "icon": "https://oropocket.com/unifarm/assets/icons/oer.png",
+      "decimals": 18,
+      "price": 0.098,
+      "chainId": 56
     }
   ],
   "label": "maintained by Oro Pocket",
