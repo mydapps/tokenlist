@@ -145,6 +145,33 @@
       "decimals": 8,
       "price": 65259.07,
       "chainId": 80001
+    },
+    {
+      "name": "Fractal Trade",
+      "symbol": "FRAC",
+      "address": "0xf1F2b722D966319843E634069eD177056C6c2729",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/frac.png",
+      "decimals": 18,
+      "price": 0.1784,
+      "chainId": 80001
+    },
+    {
+      "name": "Fabwelt",
+      "symbol": "WELT",
+      "address": "0x03A19da989d1853a8b1eAb95EA90929c3eac7e1B",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/welt.png",
+      "decimals": 18,
+      "price": 0.02,
+      "chainId": 80001
+    },
+    {
+      "name": "Swapmatic",
+      "symbol": "SWAM",
+      "address": "0xdEecF3B36843d7065dB9CC5422f72027c8759df4",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/swam.png",
+      "decimals": 18,
+      "price": 0.02,
+      "chainId": 80001
     }
   ],
   "label": "maintained by Oro Pocket",
