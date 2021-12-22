@@ -149,7 +149,7 @@
     {
       "name": "Fractal Trade",
       "symbol": "FRAC",
-      "address": "0xf1F2b722D966319843E634069eD177056C6c2729",
+      "address": "0x03A19da989d1853a8b1eAb95EA90929c3eac7e1B",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/frac.png",
       "decimals": 18,
       "price": 0.1784,
