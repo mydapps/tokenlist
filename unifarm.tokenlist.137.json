@@ -155,6 +155,33 @@
       "decimals": 8,
       "price": 64652.0,
       "chainId": 137
+    },
+    {
+      "name": "Fractal Investment Token",
+      "symbol": "FIT",
+      "address": "0x1e933ecc8251259d473827dfed48c19f2ed1889d",
+      "icon": "https://oropocket.com/unifarm/assets/icons/frac.png",
+      "decimals": 18,
+      "price": 0.034,
+      "chainId": 137
+    },
+    {
+      "name": "Fabwelt",
+      "symbol": "WELT",
+      "address": "0x23e8b6a3f6891254988b84da3738d2bfe5e703b9",
+      "icon": "https://oropocket.com/unifarm/assets/icons/welt.png",
+      "decimals": 18,
+      "price": 0.031,
+      "chainId": 137
+    },
+    {
+      "name": "SwapMatic",
+      "symbol": "SWAM",
+      "address": "0x94c18174840f80d49d59dc3a1742af0b884a8184",
+      "icon": "https://oropocket.com/unifarm/assets/icons/swam.png",
+      "decimals": 18,
+      "price": 4.16,
+      "chainId": 137
     }
   ],
   "label": "maintained by Oro Pocket",
