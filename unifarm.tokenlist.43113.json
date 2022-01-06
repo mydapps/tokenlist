@@ -1,0 +1,44 @@
+{
+  "maintainer": "Opendefi by Oropocket",
+  "ipfs": null,
+  "tokenlist": [
+    {
+      "name": "Unifarm Token",
+      "symbol": "UFARM",
+      "address": "0x4eBf6Ed5DAcfa34BeE0db8F99Dd9bBEE62597e5a",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
+      "decimals": 18,
+      "price": 0.01929,
+      "chainId": 43113
+    },
+    {
+      "name": "Opendefi by Oropocket",
+      "symbol": "ORO",
+      "address": "0x378007d9724310De97B847d7cD93698E19211FbA",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oro.png",
+      "decimals": 18,
+      "price": 0.04931,
+      "chainId": 43113
+    },
+    {
+      "name": "AVME",
+      "symbol": "AVME",
+      "address": "0x2cDF0b11058f1Dcd5C8806c18341e886e844eE66",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/avme.png",
+      "decimals": 18,
+      "price": 0.395,
+      "chainId": 43113
+    },
+    {
+      "name": "Spaceswap MILK2",
+      "symbol": "MILK2",
+      "address": "0x755858d3D9259f58Ef64fbc7463b7f9727b70819",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/milk.png",
+      "decimals": 18,
+      "price": 0.1508,
+      "chainId": 43113
+    }
+  ],
+  "label": "maintained by Oro Pocket",
+  "keywords": ["defi", "open defi", "Oro Pocket"]
+}
