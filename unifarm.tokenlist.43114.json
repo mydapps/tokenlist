@@ -14,7 +14,7 @@
     {
       "name": "Opendefi by Oropocket",
       "symbol": "ORO",
-      "address": "<ADDRESS>",
+      "address": "0x612B6F08d7A149a668EF9AB16EA3147969B2e85B",
       "icon": "https://oropocket.com/unifarm/assets/icons/oro.png",
       "decimals": 18,
       "price": 0.05,
