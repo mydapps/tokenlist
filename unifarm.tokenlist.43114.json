@@ -1,0 +1,44 @@
+{
+  "maintainer": "Opendefi by Oropocket",
+  "ipfs": null,
+  "tokenlist": [
+    {
+      "name": "Unifarm Token",
+      "symbol": "UFARM",
+      "address": "0xd60effed653f3f1b69047f2d2dc4e808a548767b",
+      "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
+      "decimals": 18,
+      "price": 0.02,
+      "chainId": 43114
+    },
+    {
+      "name": "Opendefi by Oropocket",
+      "symbol": "ORO",
+      "address": "<ADDRESS>",
+      "icon": "https://oropocket.com/unifarm/assets/icons/oro.png",
+      "decimals": 18,
+      "price": 0.05,
+      "chainId": 43114
+    },
+    {
+      "name": "AVME",
+      "symbol": "AVME",
+      "address": "0x1ecd47ff4d9598f89721a2866bfeb99505a413ed",
+      "icon": "https://oropocket.com/unifarm/assets/icons/avme.png",
+      "decimals": 18,
+      "price": 0.4,
+      "chainId": 43114
+    },
+    {
+      "name": "Spaceswap",
+      "symbol": "MILK2",
+      "address": "0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09",
+      "icon": "https://oropocket.com/unifarm/assets/icons/milk.png",
+      "decimals": 18,
+      "price": 0.25,
+      "chainId": 43114
+    }
+  ],
+  "label": "maintained by Oro Pocket",
+  "keywords": ["defi", "open defi", "Oro Pocket"]
+}
