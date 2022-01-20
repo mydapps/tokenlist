@@ -204,7 +204,7 @@
       "address": "0xf7745D2e7FdE51c542568F718457d983F761e8C3",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
       "decimals": 18,
-      "price": 0.12,
+      "price": 0.01418,
       "chainId": 4
     },
     {
@@ -502,6 +502,42 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hash.png",
       "decimals": 18,
       "price": 0.05987,
+      "chainId": 4
+    },
+    {
+      "name": "Bxmi Token",
+      "symbol": "BXMI",
+      "address": "0x852c2Aa51a31DEb9e9dfAAef9Bd9A29923b6Baba",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bxmi.png",
+      "decimals": 18,
+      "price": 0.645,
+      "chainId": 4
+    },
+    {
+      "name": "Plethori",
+      "symbol": "PLE",
+      "address": "0xF13B4fA82cD489ED192CA371148D1e7533557Eb7",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ple.png",
+      "decimals": 18,
+      "price": 0.03637,
+      "chainId": 4
+    },
+    {
+      "name": "Ore Network",
+      "symbol": "ORE",
+      "address": "0xB6024bAe2Def43E51B0DD7dF3718260170d9E14F",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/oer.png",
+      "decimals": 18,
+      "price": 0.0583,
+      "chainId": 4
+    },
+    {
+      "name": "BollyCoin",
+      "symbol": "BOLLY",
+      "address": "0xC7e3e00Bd9E35e030732be0C973b42717c6825a1",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bolly.png",
+      "decimals": 18,
+      "price": 0.1191,
       "chainId": 4
     }
   ],
