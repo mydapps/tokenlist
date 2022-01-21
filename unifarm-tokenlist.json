@@ -503,6 +503,33 @@
       "decimals": 18,
       "price": 0.065,
       "chainId": 1
+    },
+    {
+      "name": "Bitxmi",
+      "symbol": "BXMI",
+      "address": "0xa0f5505dC06eBE8Ee8CbdC2059eaDE0b9F35cbC2",
+      "icon": "https://oropocket.com/unifarm/assets/icons/bxmi.png",
+      "decimals": 18,
+      "price": 0.62,
+      "chainId": 1
+    },
+    {
+      "name": "Plethori",
+      "symbol": "PLE",
+      "address": "0x3873965e73d9a21f88e645ce40b7db187fde4931",
+      "icon": "https://oropocket.com/unifarm/assets/icons/ple.png",
+      "decimals": 18,
+      "price": 0.038,
+      "chainId": 1
+    },
+    {
+      "name": "BollyCoin",
+      "symbol": "BOLLY",
+      "address": "0x6bd361e10c1afed0d95259e7c0115f3a60e4ea99",
+      "icon": "https://oropocket.com/unifarm/assets/icons/bolly.png",
+      "decimals": 18,
+      "price": 0.1,
+      "chainId": 1
     }
   ],
   "label": "maintained by Oro Pocket",
