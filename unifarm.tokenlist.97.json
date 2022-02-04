@@ -264,6 +264,15 @@
       "chainId": 97
     },
     {
+      "name": "StartFi",
+      "symbol": "STFI",
+      "address": "0xbf0ffba74bbfe340788a9d951d7b3a1a261e5eb2",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/legacy-tokenlist/.github/assets/icons/stfi.png",
+      "decimals": 18,
+      "price": 0.04,
+      "chainId": 97
+    },
+    {
       "name": "Derived",
       "symbol": "DVDX",
       "address": "0x2b63b4c5d6c2e7B8805A6Eb7536156C8e4D74AA0",
