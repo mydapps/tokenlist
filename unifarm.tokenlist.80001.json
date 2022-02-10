@@ -8,7 +8,7 @@
       "address": "0xa1C5949Ec64b4d81B2BE69356BeAfe529F774FE5",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
       "decimals": 18,
-      "price": 0.59,
+      "price": 0.01498,
       "chainId": 80001
     },
     {
@@ -171,6 +171,24 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/swam.png",
       "decimals": 18,
       "price": 0.02,
+      "chainId": 80001
+    },
+    {
+      "name": "Paycer",
+      "symbol": "PCR",
+      "address": "0xEAeD7e3cADc8f312260F8A732A7F5E48Ad1E26e5",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pcr.png",
+      "decimals": 18,
+      "price": 0.04,
+      "chainId": 80001
+    },
+    {
+      "name": "OwlDAO",
+      "symbol": "OWL",
+      "address": "0xc2843C427D12C187fB5e6c1C74180C58aca18e12",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/owl.png",
+      "decimals": 18,
+      "price": 0.01029,
       "chainId": 80001
     }
   ],
