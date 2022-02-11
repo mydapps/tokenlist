@@ -182,6 +182,24 @@
       "decimals": 18,
       "price": 4.16,
       "chainId": 137
+    },
+    {
+      "name": "Paycer",
+      "symbol": "PCR",
+      "address": "0xa6083abe845fbB8649d98B8586cBF50b7f233612",
+      "icon": "https://oropocket.com/unifarm/assets/icons/pcr.png",
+      "decimals": 18,
+      "price": 0.06,
+      "chainId": 137
+    },
+    {
+      "name": "OwlDAO",
+      "symbol": "OWL",
+      "address": "0x9085b4d52c3e0b8b6f9af6213e85a433c7d76f19",
+      "icon": "https://oropocket.com/unifarm/assets/icons/owl.png",
+      "decimals": 18,
+      "price": 0.0103,
+      "chainId": 137
     }
   ],
   "label": "maintained by Oro Pocket",
