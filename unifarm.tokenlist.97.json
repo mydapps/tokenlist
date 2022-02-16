@@ -424,6 +424,15 @@
       "decimals": 18,
       "price": 0.09865,
       "chainId": 97
+    },
+    {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "address": "0x3f2C8358Da0D30f24a98821645595C8F0C8143bF",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/wbnb.png",
+      "decimals": 18,
+      "price": 429.77,
+      "chainId": 97
     }
   ],
   "label": "maintained by Oro Pocket",
