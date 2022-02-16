@@ -406,6 +406,15 @@
       "decimals": 18,
       "price": 0.098,
       "chainId": 56
+    },
+    {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "icon": "https://oropocket.com/unifarm/assets/icons/wbnb.png",
+      "decimals": 18,
+      "price": 429.77,
+      "chainId": 56
     }
   ],
   "label": "maintained by Oro Pocket",
