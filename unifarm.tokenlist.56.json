@@ -415,6 +415,15 @@
       "decimals": 18,
       "price": 434.79,
       "chainId": 56
+    },
+    {
+      "name": "Battleverse",
+      "symbol": "BVC",
+      "address": "0x9BEe0c15676a65ef3c8cdb38cB3DD31c675BbD12",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bvc.png",
+      "decimals": 18,
+      "price": 0.05,
+      "chainId": 56
     }
   ],
   "label": "maintained by Oro Pocket",
