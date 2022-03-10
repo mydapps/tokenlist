@@ -442,6 +442,15 @@
       "decimals": 18,
       "price": 0.02,
       "chainId": 97
+    },
+    {
+      "name": "NFT4Play",
+      "symbol": "4PLAY",
+      "address": "0x2d4eF212C5f0EF83Dc0fb3603F1b743484596e91",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/4play.png",
+      "decimals": 18,
+      "price": 0.00403,
+      "chainId": 97
     }
   ],
   "label": "maintained by Oro Pocket",
