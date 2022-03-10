@@ -44,7 +44,7 @@
       "address": "0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
       "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
       "decimals": 18,
-      "price": 0.036,
+      "price": 0.02,
       "chainId": 56
     },
     {
@@ -197,7 +197,7 @@
       "address": "0x4a5a34212404f30c5ab7eb61b078fa4a55adc5a5",
       "icon": "https://oropocket.com/unifarm/assets/icons/milk.png",
       "decimals": 18,
-      "price": 0.074,
+      "price": 0.1139,
       "chainId": 56
     },
     {
@@ -420,9 +420,18 @@
       "name": "Battleverse",
       "symbol": "BVC",
       "address": "0x9BEe0c15676a65ef3c8cdb38cB3DD31c675BbD12",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bvc.png",
+      "icon": "https://oropocket.com/unifarm/assets/icons/bvc.png",
       "decimals": 18,
-      "price": 0.05,
+      "price": 0.11,
+      "chainId": 56
+    },
+    {
+      "name": "NFT4Play",
+      "symbol": "4PLAY",
+      "address": "0xf787E1B31e12c4BE0cBFA46844c5ec851eBA098d",
+      "icon": "https://oropocket.com/unifarm/assets/icons/4play.png",
+      "decimals": 18,
+      "price": 0.0039,
       "chainId": 56
     }
   ],
