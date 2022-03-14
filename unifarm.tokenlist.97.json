@@ -451,6 +451,15 @@
       "decimals": 18,
       "price": 0.00403,
       "chainId": 97
+    },
+    {
+      "name": "GameYoo",
+      "symbol": "GYC",
+      "address": "0x204b8417D74A561848f2F05b9226cCf3d3f8733C",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gyc.png",
+      "decimals": 18,
+      "price": 0.02,
+      "chainId": 97
     }
   ],
   "label": "maintained by Oro Pocket",
