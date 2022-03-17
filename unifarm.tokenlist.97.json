@@ -460,6 +460,16 @@
       "decimals": 18,
       "price": 0.02,
       "chainId": 97
+    },
+    {
+      "name": "DCD Ecosystem",
+      "symbol": "DCD",
+      "address": "0x5eAd58B3a01d3c602b76E5ebe47b39a69C0662A2",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/dcd.png",
+      "decimals": 18,
+      "price": 0.04,
+      "chainId": 97,
+      "tags": []
     }
   ],
   "label": "maintained by Oro Pocket",
