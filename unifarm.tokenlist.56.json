@@ -452,6 +452,16 @@
       "price": 0.04,
       "chainId": 56,
       "tags": []
+    },
+    {
+      "name": "Wizardia",
+      "symbol": "WZRD",
+      "address": "0x2E52c6C9E0A6d19d281f0cf452B5D0b88057074D",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/wzrd.png",
+      "decimals": 18,
+      "price": 0.08,
+      "chainId": 56,
+      "tags": []
     }
   ],
   "label": "maintained by Oro Pocket",
