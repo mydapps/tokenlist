@@ -480,6 +480,26 @@
       "price": 0.08,
       "chainId": 97,
       "tags": []
+    },
+    {
+      "name": "Alium Finance",
+      "symbol": "ALM",
+      "address": "0x20b51B2ae7cAd77F88b9D42766163877ec741405",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/alm.png",
+      "decimals": 18,
+      "price": 0.03,
+      "chainId": 97,
+      "tags": []
+    },
+    {
+      "name": "Arcade Network",
+      "symbol": "ARC",
+      "address": "0x33897C7ACB3E8589D07FEbf5Df44358ec420A0cC",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/arc.png",
+      "decimals": 18,
+      "price": 0.01,
+      "chainId": 97,
+      "tags": []
     }
   ],
   "label": "maintained by Oro Pocket",
