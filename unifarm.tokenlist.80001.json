@@ -12,6 +12,15 @@
       "chainId": 80001
     },
     {
+      "name": "Wrapped Matic",
+      "symbol": "MATIC",
+      "address": "0xa1C5949Ec64b4d81B2BE69356BeAfe529F774FE5",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/matic.png",
+      "decimals": 18,
+      "price": 3.0,
+      "chainId": 80001
+    },
+    {
       "name": "Bluzelle",
       "symbol": "BLZ",
       "address": "0x684392f5e743ea5Eafee8AC838A26E6DB693F391",
