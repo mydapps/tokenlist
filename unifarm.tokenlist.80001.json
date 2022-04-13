@@ -14,7 +14,7 @@
     {
       "name": "Wrapped Matic",
       "symbol": "MATIC",
-      "address": "0xa1C5949Ec64b4d81B2BE69356BeAfe529F774FE5",
+      "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/matic.png",
       "decimals": 18,
       "price": 3.0,
