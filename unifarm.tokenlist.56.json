@@ -462,6 +462,16 @@
       "price": 0.08,
       "chainId": 56,
       "tags": []
+    },
+        {
+      "name": "Legion Token",
+      "symbol": "LGX",
+      "address": "0x9096B4309224d751FCB43d7eB178dcFFc122aD15",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/legionSmall.png",
+      "decimals": 18,
+      "price": 0.075,
+      "chainId": 56,
+      "tags": []
     }
   ],
   "label": "maintained by Oro Pocket",
