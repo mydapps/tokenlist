@@ -467,7 +467,7 @@
       "name": "Legion Token",
       "symbol": "LGX",
       "address": "0x9096B4309224d751FCB43d7eB178dcFFc122aD15",
-      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/legionSmall.png",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet-01/.github/assets/icons/legionSmall.png",
       "decimals": 18,
       "price": 0.075,
       "chainId": 56,
