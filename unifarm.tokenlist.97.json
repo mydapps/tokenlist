@@ -500,6 +500,26 @@
       "price": 0.01,
       "chainId": 97,
       "tags": []
+    },
+    {
+      "name": "Safle",
+      "symbol": "SAFLE",
+      "address": "0x333f794E9244CcCfE26D8B1D0D4DA54f543b725A",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/safle.png",
+      "decimals": 18,
+      "price": 0.038,
+      "chainId": 97,
+      "tags": []
+    },
+    {
+      "name": "CinemaDraft",
+      "symbol": "CD3D",
+      "address": "0x1e5a62a95DC7171720852aCE9d07367c2889710c",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cd3d.png",
+      "decimals": 18,
+      "price": 0.01,
+      "chainId": 97,
+      "tags": []
     }
   ],
   "label": "maintained by Oro Pocket",
