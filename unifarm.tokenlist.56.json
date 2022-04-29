@@ -161,7 +161,7 @@
       "address": "0x0A356f512f6fCE740111ee04Ab1699017a908680",
       "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
       "decimals": 18,
-      "price": 0.027,
+      "price": 0.01,
       "chainId": 56
     },
     {
@@ -188,7 +188,7 @@
       "address": "0xdbb66eb9f4d737b49ae5cd4de25e6c8da8b034f9",
       "icon": "https://oropocket.com/unifarm/assets/icons/canu.png",
       "decimals": 18,
-      "price": 0.016,
+      "price": 0.0016,
       "chainId": 56
     },
     {
@@ -470,6 +470,26 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet-01/.github/assets/icons/legionSmall.png",
       "decimals": 18,
       "price": 0.075,
+      "chainId": 56,
+      "tags": []
+    },
+    {
+      "name": "Safle",
+      "symbol": "SAFLE",
+      "address": "0x73afC23510b40dcbEABc25fFBc8C2976eD9f950c",
+      "icon": "https://oropocket.com/unifarm/assets/icons/safle.png",
+      "decimals": 18,
+      "price": 0.043,
+      "chainId": 56,
+      "tags": []
+    },
+    {
+      "name": "CinemaDraft",
+      "symbol": "CD3D",
+      "address": "0x9108c36DC1DCbf08187D4f4D4579D72e6A35d979",
+      "icon": "https://oropocket.com/unifarm/assets/icons/cd3d.png",
+      "decimals": 9,
+      "price": 0.024,
       "chainId": 56,
       "tags": []
     }
