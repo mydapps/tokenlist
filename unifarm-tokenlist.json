@@ -13,6 +13,16 @@
       "tags": []
     },
     {
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "address": "0x523868b60EeaE62b6602Ea73F9699118eEF13aD1",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ape.png",
+      "decimals": 18,
+      "price": 7.13,
+      "chainId": 4,
+      "tags": []
+    },
+    {
       "name": "Polygon",
       "symbol": "MATIC",
       "address": "0xe98F9b3892229784ccc1Fb9BF7F45C3579354118",
