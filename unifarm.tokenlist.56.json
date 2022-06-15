@@ -161,7 +161,7 @@
       "address": "0x0A356f512f6fCE740111ee04Ab1699017a908680",
       "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
       "decimals": 18,
-      "price": 0.01,
+      "price": 0.002177,
       "chainId": 56
     },
     {
@@ -499,7 +499,7 @@
       "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet-01/.github/assets/icons/paxg.png",
       "decimals": 18,
-      "price": 1826.75,
+      "price": 1834.86,
       "chainId": 56,
       "tags": []
     },
@@ -509,7 +509,7 @@
       "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet-01/.github/assets/icons/cake.png",
       "decimals": 18,
-      "price": 3.02,
+      "price": 3.33,
       "chainId": 56,
       "tags": []
     }
