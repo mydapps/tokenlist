@@ -492,6 +492,26 @@
       "price": 0.024,
       "chainId": 56,
       "tags": []
+    },
+    {
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/paxg.png",
+      "decimals": 18,
+      "price": 1826.75,
+      "chainId": 56,
+      "tags": []
+    },
+    {
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cake.png",
+      "decimals": 18,
+      "price": 3.02,
+      "chainId": 56,
+      "tags": []
     }
   ],
   "label": "maintained by Oro Pocket",
